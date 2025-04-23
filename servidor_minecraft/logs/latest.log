@@ -1348,3 +1348,36 @@
 [23Apr2025 02:54:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Forgotten
 [23Apr2025 02:54:31.163] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
 [23Apr2025 02:54:44.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 02:55:27.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [False Water]
+[23Apr2025 02:56:02.150] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[23Apr2025 02:56:02.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[23Apr2025 02:57:21.985] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Suit Up]
+[23Apr2025 02:57:23.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Tunnel Treasures]
+[23Apr2025 02:57:26.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Amateur Archaeologist]
+[23Apr2025 03:01:33.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [First Age]
+[23Apr2025 03:02:25.356] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:49311] logged in with entity id 14225 at (31.140679366447102, -1.0, 1594.3328131027272)
+[23Apr2025 03:02:25.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[23Apr2025 03:02:25.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[23Apr2025 03:02:25.358] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[23Apr2025 03:02:25.359] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[23Apr2025 03:02:25.360] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[23Apr2025 03:02:25.362] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[23Apr2025 03:02:25.363] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[23Apr2025 03:02:25.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[23Apr2025 03:02:25.428] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[23Apr2025 03:02:49.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Necrostalker
+[23Apr2025 03:02:49.456] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[23Apr2025 03:02:49.546] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Apr2025 03:02:49.546] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[23Apr2025 03:02:49.547] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Apr2025 03:02:49.547] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Apr2025 03:02:49.547] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Apr2025 03:03:04.555] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to ZingyMonk719952]
+[23Apr2025 03:03:50.873] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 03:03:50.874] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[23Apr2025 03:04:10.171] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:04:29.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Into Darkness]
+[23Apr2025 03:04:34.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Berserk Class]
+[23Apr2025 03:04:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Taking from the Dead]
+[23Apr2025 03:04:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Wraith
+[23Apr2025 03:04:58.156] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
