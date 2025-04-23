@@ -1214,3 +1214,10 @@
 [23Apr2025 02:22:22.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
 [23Apr2025 02:22:22.896] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
 [23Apr2025 02:23:14.762] [Netty Epoll Server IO #5/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[23Apr2025 02:28:19.394] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2111, l='ServerLevel[world]', x=148.50, y=73.00, z=1451.50]
+[23Apr2025 02:30:44.243] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2395, l='ServerLevel[world]', x=147.50, y=73.00, z=1451.50]
+[23Apr2025 02:32:31.658] [Worker-Main-3/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=355, y=-32, z=1560}
+[23Apr2025 02:32:33.542] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[23Apr2025 02:32:42.992] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2848, l='ServerLevel[world]', x=149.50, y=73.00, z=1451.50]
+[23Apr2025 02:33:03.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=139, y=68, z=1403} BlockPos{x=139, y=68, z=1401}
+[23Apr2025 02:33:10.792] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/2911, l='ServerLevel[world]', x=149.50, y=73.00, z=1449.50]
