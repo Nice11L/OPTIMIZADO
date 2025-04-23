@@ -1253,3 +1253,98 @@
 [23Apr2025 02:42:26.322] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
 [23Apr2025 02:42:26.606] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [23Apr2025 02:43:06.785] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[23Apr2025 02:45:31.613] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:45:31.613] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:45:31.653] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@38465a79[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:45451) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:45:38.853] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:45:38.853] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:45:38.901] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7cd467e5[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:49851) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:45:48.651] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:45:48.651] [Netty Epoll Server IO #7/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:45:48.701] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6f3c471b[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:53405) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:45:55.208] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:45:55.209] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:45:55.251] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@67cd3c7e[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:39117) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:46:01.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Double Trouble]
+[23Apr2025 02:46:03.073] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:46:03.073] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:46:03.101] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7613045a[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:58929) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:46:12.047] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[23Apr2025 02:46:12.047] [Netty Epoll Server IO #5/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[23Apr2025 02:46:12.051] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2eed541e[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.147.73.159:39565) lost connection: Connection closed - mismatched mod channel list
+[23Apr2025 02:47:28.899] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[23Apr2025 02:47:28.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton Girl
+[23Apr2025 02:47:28.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[23Apr2025 02:47:28.927] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 02:47:35.653] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[23Apr2025 02:47:59.645] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:48:01.597] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:49:04.001] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[23Apr2025 02:49:06.513] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.147.73.159:42001] logged in with entity id 7375 at (105.5, 71.0, -154.5)
+[23Apr2025 02:49:06.514] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[23Apr2025 02:49:06.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[23Apr2025 02:49:06.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[23Apr2025 02:49:06.515] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[23Apr2025 02:49:06.517] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[23Apr2025 02:49:06.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[23Apr2025 02:49:06.519] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[23Apr2025 02:49:06.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[23Apr2025 02:49:06.535] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Choose Your Class]
+[23Apr2025 02:49:06.536] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[23Apr2025 02:49:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [The Undead]
+[23Apr2025 02:49:06.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Orcz Challenges]
+[23Apr2025 02:50:21.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Creeper
+[23Apr2025 02:50:21.831] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Your First Grave]
+[23Apr2025 02:50:21.856] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 02:50:25.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:50:25.095] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:50:25.096] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:50:32.761] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! -10.241272371135793,-2.0146178540372404,-0.06708208477363087
+[23Apr2025 02:50:48.085] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 02:51:28.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 02:51:43.846] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Crops of the Wild]
+[23Apr2025 02:51:51.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Forgotten
+[23Apr2025 02:51:51.766] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 02:51:57.051] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 02:52:08.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Necrostalker
+[23Apr2025 02:52:08.760] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 02:52:10.205] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Necrostalker
+[23Apr2025 02:52:10.216] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[23Apr2025 02:52:13.054] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 02:52:14.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Necrostalker
+[23Apr2025 02:52:14.717] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 02:52:24.557] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 02:52:44.881] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 02:52:48.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Dread Hound
+[23Apr2025 02:52:48.319] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 02:52:54.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Getting an Upgrade]
+[23Apr2025 02:52:54.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Isn't It Iron Pick]
+[23Apr2025 02:52:54.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Stone Age]
+[23Apr2025 02:52:54.672] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Dungeon Now Loading]
+[23Apr2025 02:52:54.675] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Diamonds!]
+[23Apr2025 02:52:54.676] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Acquire Hardware]
+[23Apr2025 02:52:54.677] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [First Age]
+[23Apr2025 02:52:56.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 02:52:59.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Here They Come]
+[23Apr2025 02:53:02.002] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=115, y=73, z=-157}
+[23Apr2025 02:53:02.003] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=114, y=72, z=-157}
+[23Apr2025 02:53:13.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was shot by Forgotten
+[23Apr2025 02:53:13.811] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[23Apr2025 02:53:18.307] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=75, z=-155}
+[23Apr2025 02:53:18.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=116, y=74, z=-156}
+[23Apr2025 02:53:18.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 02:53:20.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Forgotten
+[23Apr2025 02:53:20.862] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 02:53:25.956] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[23Apr2025 02:53:28.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 02:53:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Chain Death]
+[23Apr2025 02:53:33.052] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Necrostalker
+[23Apr2025 02:53:33.063] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 02:53:45.709] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Knowledge of Death]
+[23Apr2025 02:53:45.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has reached the goal [Here They Come]
+[23Apr2025 02:53:58.498] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/SMessageUpgradePerk$SyncType
+[23Apr2025 02:53:58.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Knowledge raises the soul]
+[23Apr2025 02:54:07.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 02:54:31.150] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Forgotten
+[23Apr2025 02:54:31.163] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 02:54:44.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
