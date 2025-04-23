@@ -1381,3 +1381,55 @@
 [23Apr2025 03:04:56.746] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Taking from the Dead]
 [23Apr2025 03:04:58.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Wraith
 [23Apr2025 03:04:58.156] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:05:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:05:41.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Cannibal]
+[23Apr2025 03:05:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Wraith
+[23Apr2025 03:05:48.805] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 03:05:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Source of Evil]
+[23Apr2025 03:05:58.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:06:02.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:06:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[23Apr2025 03:06:35.051] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Apr2025 03:06:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[23Apr2025 03:07:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Dungeon Now Loading]
+[23Apr2025 03:07:23.619] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=355, y=-32, z=1560}
+[23Apr2025 03:07:24.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=355, y=-8, z=1671}
+[23Apr2025 03:08:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:08:49.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:08:49.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:08:51.685] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17279, l='ServerLevel[world]', x=319.50, y=-3.00, z=1898.50] as it would cause deadlock
+[23Apr2025 03:08:51.963] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17291, l='ServerLevel[world]', x=225.50, y=-3.00, z=1892.50] as it would cause deadlock
+[23Apr2025 03:08:54.499] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17367, l='ServerLevel[world]', x=319.50, y=-3.00, z=1906.50] as it would cause deadlock
+[23Apr2025 03:08:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:08:57.388] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17428, l='ServerLevel[world]', x=240.50, y=22.00, z=1931.50] as it would cause deadlock
+[23Apr2025 03:08:57.389] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17430, l='ServerLevel[world]', x=248.50, y=22.00, z=1931.50] as it would cause deadlock
+[23Apr2025 03:08:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wolf
+[23Apr2025 03:08:59.112] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:09:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:09:14.820] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17932, l='ServerLevel[world]', x=175.50, y=-53.00, z=1964.50] as it would cause deadlock
+[23Apr2025 03:09:14.825] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17934, l='ServerLevel[world]', x=171.50, y=-28.00, z=1963.50] as it would cause deadlock
+[23Apr2025 03:09:14.885] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17939, l='ServerLevel[world]', x=200.50, y=-3.00, z=1959.50] as it would cause deadlock
+[23Apr2025 03:09:14.886] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/17941, l='ServerLevel[world]', x=200.50, y=-3.00, z=1967.50] as it would cause deadlock
+[23Apr2025 03:09:20.202] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18000, l='ServerLevel[world]', x=175.50, y=-53.00, z=1972.50] as it would cause deadlock
+[23Apr2025 03:09:20.248] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18003, l='ServerLevel[world]', x=151.50, y=-53.00, z=1968.50] as it would cause deadlock
+[23Apr2025 03:09:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to ZingyMonk719952]
+[23Apr2025 03:09:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:09:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:10:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Sweet Dreams]
+[23Apr2025 03:10:17.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Apr2025 03:10:30.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Apr2025 03:10:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> W
+[23Apr2025 03:11:11.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Sweet Dreams]
+[23Apr2025 03:11:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Sweet Dreams]
+[23Apr2025 03:11:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzz
+[23Apr2025 03:13:21.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement ['X' Marks the Spot]
+[23Apr2025 03:13:32.654] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18708, l='ServerLevel[world]', x=233.50, y=-28.00, z=2024.50] as it would cause deadlock
+[23Apr2025 03:13:32.975] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18716, l='ServerLevel[world]', x=274.50, y=-41.00, z=2031.50] as it would cause deadlock
+[23Apr2025 03:13:36.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:13:38.323] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18769, l='ServerLevel[world]', x=330.50, y=22.00, z=2041.50] as it would cause deadlock
+[23Apr2025 03:14:49.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.29092427473688076

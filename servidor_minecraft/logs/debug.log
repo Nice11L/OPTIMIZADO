@@ -15254,3 +15254,73 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [23Apr2025 03:04:58.152] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:28, y:-17, z:1635, dim:minecraft:overworld]
 [23Apr2025 03:04:58.156] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [23Apr2025 03:04:59.807] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[23Apr2025 03:05:03.821] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:05:13.788] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 03:05:13.814] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 03:05:41.354] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Cannibal]
+[23Apr2025 03:05:48.799] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Wraith
+[23Apr2025 03:05:48.800] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:36, y:-17, z:1652, dim:minecraft:overworld]
+[23Apr2025 03:05:48.805] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 03:05:50.513] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[23Apr2025 03:05:55.901] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Source of Evil]
+[23Apr2025 03:05:58.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:06:02.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:06:35.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[23Apr2025 03:06:35.048] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:119, y:69, z:1565, dim:minecraft:overworld]
+[23Apr2025 03:06:35.051] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Apr2025 03:06:35.119] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Apr2025 03:06:36.263] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[23Apr2025 03:06:41.102] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[23Apr2025 03:07:03.030] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Dungeon Now Loading]
+[23Apr2025 03:07:23.619] [Worker-Main-19/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=355, y=-32, z=1560}
+[23Apr2025 03:07:24.110] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=355, y=-8, z=1671}
+[23Apr2025 03:08:22.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:08:49.194] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:08:49.195] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:08:51.685] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17279, l='ServerLevel[world]', x=319.50, y=-3.00, z=1898.50] as it would cause deadlock
+[23Apr2025 03:08:51.963] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17291, l='ServerLevel[world]', x=225.50, y=-3.00, z=1892.50] as it would cause deadlock
+[23Apr2025 03:08:54.499] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17367, l='ServerLevel[world]', x=319.50, y=-3.00, z=1906.50] as it would cause deadlock
+[23Apr2025 03:08:55.716] [Worker-Main-3/DEBUG] [ModernFix/]: Structure soulsweapons:cathedral_of_resurrection is being run through DFU (hash 09424fb7fe995a4981cd3fcd51afb89133ae6d036092c9238634af1b4a69ea5c), this will cause launch time delays
+[23Apr2025 03:08:56.074] [Worker-Main-3/DEBUG] [ModernFix/]: Structure soulsweapons:champions_graves_main is being run through DFU (hash fee0d0a1ec70a209da96c4d2de2622778eec92b6cdbbf801cd4646965ad50c99), this will cause launch time delays
+[23Apr2025 03:08:56.882] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:08:57.388] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17428, l='ServerLevel[world]', x=240.50, y=22.00, z=1931.50] as it would cause deadlock
+[23Apr2025 03:08:57.389] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17430, l='ServerLevel[world]', x=248.50, y=22.00, z=1931.50] as it would cause deadlock
+[23Apr2025 03:08:59.105] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wolf
+[23Apr2025 03:08:59.106] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:165, y:77, z:1738, dim:minecraft:overworld]
+[23Apr2025 03:08:59.112] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:09:00.627] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[23Apr2025 03:09:06.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[23Apr2025 03:09:14.820] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17932, l='ServerLevel[world]', x=175.50, y=-53.00, z=1964.50] as it would cause deadlock
+[23Apr2025 03:09:14.825] [Worker-Main-3/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17934, l='ServerLevel[world]', x=171.50, y=-28.00, z=1963.50] as it would cause deadlock
+[23Apr2025 03:09:14.885] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/17939, l='ServerLevel[world]', x=200.50, y=-3.00, z=1959.50] as it would cause deadlock
+[23Apr2025 03:09:14.886] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/17941, l='ServerLevel[world]', x=200.50, y=-3.00, z=1967.50] as it would cause deadlock
+[23Apr2025 03:09:20.202] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18000, l='ServerLevel[world]', x=175.50, y=-53.00, z=1972.50] as it would cause deadlock
+[23Apr2025 03:09:20.248] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18003, l='ServerLevel[world]', x=151.50, y=-53.00, z=1968.50] as it would cause deadlock
+[23Apr2025 03:09:20.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to ZingyMonk719952]
+[23Apr2025 03:09:29.411] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:09:36.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:10:13.837] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 03:10:13.864] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[23Apr2025 03:10:17.703] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Sweet Dreams]
+[23Apr2025 03:10:17.703] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[23Apr2025 03:10:30.574] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[23Apr2025 03:10:30.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <amigobuho360> W
+[23Apr2025 03:11:11.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Sweet Dreams]
+[23Apr2025 03:11:13.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Sweet Dreams]
+[23Apr2025 03:11:27.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzz
+[23Apr2025 03:12:58.223] [Worker-Main-8/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_11 is being run through DFU (hash 2277f98691a2453a58a2109078d1113576066397caa62b3f5064cd4fd6bffae9), this will cause launch time delays
+[23Apr2025 03:13:17.564] [Worker-Main-26/DEBUG] [ModernFix/]: Structure terralith:regular/glacial/interior1 is being run through DFU (hash 177372923eb6a9e054ad90ce38060773071dda764cda7ec65d128eaf3642ed6f), this will cause launch time delays
+[23Apr2025 03:13:21.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement ['X' Marks the Spot]
+[23Apr2025 03:13:32.654] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Spider['Spider'/18708, l='ServerLevel[world]', x=233.50, y=-28.00, z=2024.50] as it would cause deadlock
+[23Apr2025 03:13:32.975] [Worker-Main-8/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18716, l='ServerLevel[world]', x=274.50, y=-41.00, z=2031.50] as it would cause deadlock
+[23Apr2025 03:13:36.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:13:36.373] [Worker-Main-19/DEBUG] [ModernFix/]: Structure graveyard:giant_mushroom/giant_brown_mushroom_stem_01 is being run through DFU (hash cf3490d629dfeebdb22836b1e984e54cfcac6dfe631634b359fc22364d574df5), this will cause launch time delays
+[23Apr2025 03:13:36.393] [Worker-Main-25/DEBUG] [ModernFix/]: Structure bosses_of_mass_destruction:lich_tower/bottom is being run through DFU (hash b5a5d1188127a6180019fab0bb4eec7da2f58f822cf7df839925e65dd4b77108), this will cause launch time delays
+[23Apr2025 03:13:38.323] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18769, l='ServerLevel[world]', x=330.50, y=22.00, z=2041.50] as it would cause deadlock
+[23Apr2025 03:14:49.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.29092427473688076
+[23Apr2025 03:15:13.811] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[23Apr2025 03:15:13.833] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
