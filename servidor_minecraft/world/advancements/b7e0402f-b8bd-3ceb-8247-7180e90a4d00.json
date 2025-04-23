@@ -347,6 +347,12 @@
     },
     "done": true
   },
+  "beautify:rope": {
+    "criteria": {
+      "requirement": "2025-04-23 03:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/oak_sign": {
     "criteria": {
       "has_planks": "2025-04-23 03:06:59 +0000"
@@ -395,6 +401,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/components": {
     "criteria": {
       "has_wood": "2025-04-23 03:06:53 +0000"
@@ -404,6 +416,12 @@
   "mcwwindows:recipes/curtain_rods": {
     "criteria": {
       "has_wood": "2025-04-23 03:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
     },
     "done": true
   },
@@ -503,6 +521,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-23 03:06:59 +0000"
@@ -533,9 +557,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
+    },
+    "done": true
+  },
   "rpgsmw:berserk_class": {
     "criteria": {
       "berserk_class_0": "2025-04-23 03:04:34 +0000"
+    },
+    "done": true
+  },
+  "undead_revamp2:sugarcoat": {
+    "criteria": {
+      "sugarcoat_0": "2025-04-23 03:16:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
     },
     "done": true
   },
@@ -593,11 +635,24 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/oak_window": {
     "criteria": {
       "has_ingredient": "2025-04-23 03:06:59 +0000"
     },
     "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:lukewarm_ocean": "2025-04-23 03:21:51 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-23 03:17:40 +0000"
+    },
+    "done": false
   },
   "farmersdelight:recipes/decorations/cutting_board": {
     "criteria": {
@@ -615,6 +670,12 @@
   "beautify:trellis": {
     "criteria": {
       "requirement": "2025-04-23 03:06:55 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-23 03:16:40 +0000"
     },
     "done": true
   },

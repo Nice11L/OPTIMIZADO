@@ -1433,3 +1433,30 @@
 [23Apr2025 03:13:36.346] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [23Apr2025 03:13:38.323] [Worker-Main-25/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/18769, l='ServerLevel[world]', x=330.50, y=22.00, z=2041.50] as it would cause deadlock
 [23Apr2025 03:14:49.754] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: entity.evilcraft.broom (vehicle of amigobuho360) moved wrongly! 0.29092427473688076
+[23Apr2025 03:15:24.759] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[23Apr2025 03:16:35.905] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [I'm not sugar coating it]
+[23Apr2025 03:17:16.944] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:17:16.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:17:16.945] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:17:21.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:18:50.894] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 7.022660507170599,-1.2491870787446828,-7.180506994246798
+[23Apr2025 03:21:07.596] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[23Apr2025 03:21:44.344] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[23Apr2025 03:22:02.807] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 died
+[23Apr2025 03:22:02.814] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[23Apr2025 03:22:04.255] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 moved too quickly! 4.511265808463008,-1.2491870787446828,-8.983277519031162
+[23Apr2025 03:22:15.970] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[23Apr2025 03:22:23.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[23Apr2025 03:22:23.569] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:22:23.679] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[23Apr2025 03:22:23.679] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[23Apr2025 03:22:23.680] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[23Apr2025 03:22:23.680] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[23Apr2025 03:22:23.680] [Netty Epoll Server IO #7/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[23Apr2025 03:23:44.450] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wheezer
+[23Apr2025 03:23:44.456] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:23:44.467] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[23Apr2025 03:24:05.601] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[23Apr2025 03:24:20.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[23Apr2025 03:24:20.106] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[23Apr2025 03:24:28.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=396, y=195, z=1281} BlockPos{x=397, y=193, z=1280}

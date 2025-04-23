@@ -141,7 +141,9 @@
     "criteria": {
       "minecraft:beach": "2025-04-23 00:37:59 +0000",
       "minecraft:river": "2025-04-23 00:34:49 +0000",
-      "minecraft:forest": "2025-04-23 00:35:52 +0000"
+      "minecraft:lukewarm_ocean": "2025-04-23 03:18:16 +0000",
+      "minecraft:forest": "2025-04-23 00:35:52 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-23 03:16:07 +0000"
     },
     "done": false
   },
@@ -202,73 +204,73 @@
   },
   "incendium:technical/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/sentrys_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/multiplex_crossbow": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/feed_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_inventory_change": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_player_hurt": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/holy_wrath": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/inventory/firestorm": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/give_ghastling": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
   "incendium:technical/on_kill": {
     "criteria": {
-      "log_spam_fixer": "2025-04-23 03:15:13 +0000"
+      "log_spam_fixer": "2025-04-23 03:25:13 +0000"
     },
     "done": false
   },
@@ -542,6 +544,12 @@
     },
     "done": true
   },
+  "mcwwindows:recipes/components": {
+    "criteria": {
+      "has_wood": "2025-04-23 03:15:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/smelting/zinc_ingot_from_raw_ore": {
     "criteria": {
       "has_item": "2025-04-23 02:52:54 +0000"
@@ -722,6 +730,12 @@
     },
     "done": true
   },
+  "mcwstairs:recipes/oak": {
+    "criteria": {
+      "has_planks": "2025-04-23 03:15:18 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/cut_andesite_bricks_from_stone_types_andesite_stonecutting": {
     "criteria": {
       "has_stone_types_andesite": "2025-04-23 02:52:54 +0000"
@@ -803,6 +817,12 @@
   "soulsweapons:recipes/combat/skofnung_stone": {
     "criteria": {
       "has_item": "2025-04-23 02:55:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-23 03:15:18 +0000"
     },
     "done": true
   },
@@ -926,6 +946,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2025-04-23 03:15:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/crossbow": {
     "criteria": {
       "has_iron_ingot": "2025-04-23 02:52:54 +0000"
@@ -1019,6 +1045,12 @@
   "minecraft:recipes/tools/stone_shovel": {
     "criteria": {
       "has_cobblestone": "2025-04-23 02:52:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2025-04-23 03:15:18 +0000"
     },
     "done": true
   },
@@ -1181,6 +1213,12 @@
   "blue_skies:recipes/building_blocks/food_prep_table": {
     "criteria": {
       "has_item": "2025-04-23 02:52:54 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/oak": {
+    "criteria": {
+      "has_wood": "2025-04-23 03:15:18 +0000"
     },
     "done": true
   },
