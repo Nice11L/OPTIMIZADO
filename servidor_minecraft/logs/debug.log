@@ -13906,3 +13906,54 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 22:53:24.441] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:irontomb
 [24Apr2025 22:53:31.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 22:53:31.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:53:35.508] [Worker-Main-38/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_06 is being run through DFU (hash 1f580368cac5999df0a7c333976a7c447630e45aeb8c134c8c3f34cc1b3842b6), this will cause launch time delays
+[24Apr2025 22:53:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Plant Food]
+[24Apr2025 22:54:49.466] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_07
+[24Apr2025 22:54:50.718] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:mushroom_grave/mushroom_grave_02
+[24Apr2025 22:54:50.826] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior216
+[24Apr2025 22:55:45.766] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/crashed_carriage
+[24Apr2025 22:55:49.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 22:56:09.460] [Worker-Main-37/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_08 is being run through DFU (hash b5906c65230c4b4fb2b57aad2f32b23872a2b439bfca97245290b29a955d6746), this will cause launch time delays
+[24Apr2025 22:56:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Hunt and Gather]
+[24Apr2025 22:57:24.788] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_grave/small_grave_12
+[24Apr2025 22:58:31.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:58:31.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:58:37.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:58:42.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Apr2025 22:59:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Disme A Dozen]
+[24Apr2025 23:00:55.710] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:tomb1
+[24Apr2025 23:00:57.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 23:01:17.678] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20205, l='ServerLevel[world]', x=-537.50, y=78.00, z=1653.50]
+[24Apr2025 23:01:39.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 23:01:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 23:03:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Knowledge of Death]
+[24Apr2025 23:03:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Strong or Careful]
+[24Apr2025 23:03:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was doomed to fall by amigobuho360
+[24Apr2025 23:03:11.440] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mondongo was created at position [x:-374, y:22, z:1742, dim:minecraft:overworld]
+[24Apr2025 23:03:11.441] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[24Apr2025 23:03:12.616] [Server thread/DEBUG] [twilightforest/]: Player Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db) respawned and received items held in storage
+[24Apr2025 23:03:20.788] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[24Apr2025 23:03:20.836] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[24Apr2025 23:03:20.840] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[24Apr2025 23:03:20.846] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[24Apr2025 23:03:20.847] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[24Apr2025 23:03:20.855] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[24Apr2025 23:03:20.857] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[24Apr2025 23:03:20.861] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[24Apr2025 23:03:20.867] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[24Apr2025 23:03:20.872] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[24Apr2025 23:03:20.875] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[24Apr2025 23:03:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[24Apr2025 23:03:31.267] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 23:03:31.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 23:04:09.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21494, l='ServerLevel[world]', x=-447.50, y=75.00, z=1680.50]
+[24Apr2025 23:04:55.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Not Today, Thank You]
+[24Apr2025 23:08:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [A Strange Grave Dust]
+[24Apr2025 23:08:31.274] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 23:08:31.299] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 23:09:47.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[24Apr2025 23:10:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Full Moon in a Pocket]
+[24Apr2025 23:11:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Ambush]
+[24Apr2025 23:11:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Deceived Hopes]
+[24Apr2025 23:13:31.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 23:13:31.287] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

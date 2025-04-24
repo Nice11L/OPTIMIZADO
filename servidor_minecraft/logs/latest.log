@@ -1261,3 +1261,25 @@
 [24Apr2025 22:52:19.707] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [24Apr2025 22:52:19.708] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
 [24Apr2025 22:53:05.915] [Worker-Main-46/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[24Apr2025 22:53:36.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Plant Food]
+[24Apr2025 22:55:49.132] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 22:56:43.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Hunt and Gather]
+[24Apr2025 22:58:37.629] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:58:42.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Apr2025 22:59:04.174] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Disme A Dozen]
+[24Apr2025 23:00:57.980] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 23:01:17.678] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/20205, l='ServerLevel[world]', x=-537.50, y=78.00, z=1653.50]
+[24Apr2025 23:01:39.427] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 23:01:41.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 23:03:11.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Knowledge of Death]
+[24Apr2025 23:03:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Strong or Careful]
+[24Apr2025 23:03:11.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was doomed to fall by amigobuho360
+[24Apr2025 23:03:11.441] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[24Apr2025 23:03:25.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[24Apr2025 23:04:09.527] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/21494, l='ServerLevel[world]', x=-447.50, y=75.00, z=1680.50]
+[24Apr2025 23:04:55.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Not Today, Thank You]
+[24Apr2025 23:08:23.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [A Strange Grave Dust]
+[24Apr2025 23:09:47.985] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[24Apr2025 23:10:16.933] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Full Moon in a Pocket]
+[24Apr2025 23:11:02.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Ambush]
+[24Apr2025 23:11:52.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Deceived Hopes]
