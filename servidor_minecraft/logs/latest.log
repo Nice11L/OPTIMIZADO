@@ -1405,3 +1405,38 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 04:05:29.761] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [24Apr2025 04:06:37.263] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [24Apr2025 04:07:06.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[24Apr2025 04:07:26.977] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Skeleton
+[24Apr2025 04:07:27.000] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:07:48.120] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Sucker
+[24Apr2025 04:07:48.165] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:07:48.373] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Disme A Dozen]
+[24Apr2025 04:07:58.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Magic Writing]
+[24Apr2025 04:08:27.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has reached the goal [Death Will Not Be Enough]
+[24Apr2025 04:09:05.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Rotten King]
+[24Apr2025 04:09:27.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[24Apr2025 04:09:44.119] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Missionary
+[24Apr2025 04:09:44.132] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:10:05.286] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Ashes 'n Bones]
+[24Apr2025 04:10:11.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Missionary
+[24Apr2025 04:10:11.622] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:10:31.427] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzzzzzzzz
+[24Apr2025 04:10:43.370] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to ZingyMonk719952]
+[24Apr2025 04:11:18.310] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:11:31.653] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24Apr2025 04:11:53.387] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Good Demoman]
+[24Apr2025 04:11:56.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Now how do I configure this crappy mod???]
+[24Apr2025 04:11:56.916] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[24Apr2025 04:11:56.944] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:12:42.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[24Apr2025 04:12:42.591] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:12:42.743] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 04:12:42.743] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 2 is dual wielding: false
+[24Apr2025 04:12:42.744] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 04:12:42.744] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 04:12:42.744] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 04:12:46.166] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:13:58.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 hit the ground too hard
+[24Apr2025 04:13:58.993] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:14:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Dark Metallurgy]
+[24Apr2025 04:16:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 fell from a high place
+[24Apr2025 04:16:17.508] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
