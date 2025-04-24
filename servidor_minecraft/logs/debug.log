@@ -13813,3 +13813,31 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 22:29:48.834] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:335, y:194, z:1272, dim:minecraft:overworld]
 [24Apr2025 22:29:48.908] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [24Apr2025 22:29:50.202] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 22:33:25.721] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[24Apr2025 22:33:31.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:33:31.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:36:01.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Deepling Brute
+[24Apr2025 22:36:01.037] [Server thread/DEBUG] [tombstone/]: A new grave of the player Mondongo was created at position [x:250, y:62, z:1272, dim:minecraft:overworld]
+[24Apr2025 22:36:01.043] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[24Apr2025 22:36:02.441] [Server thread/DEBUG] [twilightforest/]: Player Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db) respawned and received items held in storage
+[24Apr2025 22:36:16.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported Mondongo to amigobuho360]
+[24Apr2025 22:38:31.262] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:38:31.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:39:45.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Apr2025 22:39:45.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> zzzz
+[24Apr2025 22:39:46.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> zzzz
+[24Apr2025 22:39:47.494] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> zzz
+[24Apr2025 22:39:48.349] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> zz
+[24Apr2025 22:39:49.232] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:49.961] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:50.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:50.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:51.159] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:51.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:51.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:52.122] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:52.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:52.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:53.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:53.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:39:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z

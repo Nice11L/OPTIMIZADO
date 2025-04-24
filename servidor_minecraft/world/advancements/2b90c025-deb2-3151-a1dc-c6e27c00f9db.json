@@ -1786,77 +1786,47 @@
     },
     "done": true
   },
-  "incendium:technical/sentrys_wrath": {
+  "minecraft:recipes/food/bread": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_wheat": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/inventory/sentrys_wrath": {
+  "minecraft:recipes/building_blocks/hay_block": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_wheat": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/multiplex_crossbow": {
+  "farmersdelight:recipes/cooking/squid_ink_pasta": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_any_ingredient": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/feed_ghastling": {
+  "minecraft:recipes/misc/black_dye": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_ink_sac": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_inventory_change": {
+  "farmersdelight:recipes/food/pie_crust": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_wheat": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/on_player_hurt": {
+  "farmersdelight:recipes/food/wheat_dough_from_eggs": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_wheat": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
+    "done": true
   },
-  "incendium:technical/firestorm": {
+  "farmersdelight:recipes/food/wheat_dough_from_water": {
     "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
+      "has_wheat": "2025-04-24 22:37:26 +0000"
     },
-    "done": false
-  },
-  "incendium:technical/holy_wrath": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_block": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/inventory/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/give_ghastling": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
-    },
-    "done": false
-  },
-  "incendium:technical/on_kill": {
-    "criteria": {
-      "log_spam_fixer": "2025-04-24 22:13:31 +0000"
-    },
-    "done": false
+    "done": true
   },
   "DataVersion": 3465
 }
