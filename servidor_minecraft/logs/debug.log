@@ -13285,3 +13285,45 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 03:16:21.686] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [Unfunny dad jokes]
 [24Apr2025 03:16:21.719] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [First big catch of the month!]
 [24Apr2025 03:16:23.418] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Stone Age]
+[24Apr2025 03:16:40.298] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[24Apr2025 03:16:40.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[24Apr2025 03:17:42.745] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Monster Hunter]
+[24Apr2025 03:17:42.747] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [A Strange Grave Dust]
+[24Apr2025 03:17:42.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Zombie
+[24Apr2025 03:17:42.971] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:413, y:195, z:1277, dim:minecraft:overworld]
+[24Apr2025 03:17:42.989] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:17:44.298] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 03:17:53.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 03:17:53.314] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 03:18:09.197] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has completed the challenge [Yo mama so fat, she digests her kids]
+[24Apr2025 03:18:09.220] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [First big catch of the month!]
+[24Apr2025 03:18:10.169] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was squashed by a falling anvil
+[24Apr2025 03:18:10.171] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:411, y:195, z:1277, dim:minecraft:overworld]
+[24Apr2025 03:18:10.178] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:18:11.852] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 03:20:21.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton Girl
+[24Apr2025 03:20:21.271] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:387, y:194, z:1281, dim:minecraft:overworld]
+[24Apr2025 03:20:21.275] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 03:20:21.438] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 03:20:21.438] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 1 is dual wielding: false
+[24Apr2025 03:20:21.439] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 03:20:21.439] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 03:20:21.439] [Netty Epoll Server IO #2/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 4 | client: 4
+[24Apr2025 03:20:22.523] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 03:20:26.667] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was shot by Skeleton Girl
+[24Apr2025 03:20:26.669] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:389, y:193, z:1283, dim:minecraft:overworld]
+[24Apr2025 03:20:26.672] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:20:28.675] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 03:20:47.521] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[24Apr2025 03:20:47.523] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[24Apr2025 03:20:54.966] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Apr2025 03:20:54.967] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[24Apr2025 03:22:22.500] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=334, y=196, z=1269} BlockPos{x=335, y=197, z=1268}
+[24Apr2025 03:22:53.254] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 03:22:53.278] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 03:24:11.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Dogu
+[24Apr2025 03:24:11.970] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:333, y:195, z:1254, dim:minecraft:overworld]
+[24Apr2025 03:24:11.978] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:24:13.349] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 03:25:28.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=197, z=1271} BlockPos{x=339, y=196, z=1270}
+[24Apr2025 03:25:30.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=196, z=1267} BlockPos{x=340, y=195, z=1267}
