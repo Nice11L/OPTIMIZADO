@@ -2743,6 +2743,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/acacia_wood": {
+    "criteria": {
+      "has_log": "2025-04-24 03:40:15 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:defeatundeadbosses": {
     "criteria": {
       "defeatundeadbosses_0": "2025-04-24 03:16:21 +0000"
@@ -2764,6 +2770,18 @@
   "undead_revamp2:sugarcoat": {
     "criteria": {
       "sugarcoat_0": "2025-04-24 03:15:48 +0000"
+    },
+    "done": true
+  },
+  "mcwstairs:recipes/acacia": {
+    "criteria": {
+      "has_planks": "2025-04-24 03:40:15 +0000"
+    },
+    "done": true
+  },
+  "mcwwindows:recipes/acacia": {
+    "criteria": {
+      "has_wood": "2025-04-24 03:40:15 +0000"
     },
     "done": true
   },

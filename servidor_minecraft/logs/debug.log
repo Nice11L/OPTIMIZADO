@@ -13332,3 +13332,26 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 03:27:53.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [24Apr2025 03:32:53.258] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 03:32:53.285] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 03:37:53.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 03:37:53.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 03:40:58.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Apr2025 03:40:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24Apr2025 03:42:53.255] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 03:42:53.302] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 03:43:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[24Apr2025 03:43:58.517] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:411, y:195, z:1277, dim:minecraft:overworld]
+[24Apr2025 03:43:58.521] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 03:43:59.835] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 03:45:03.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[24Apr2025 03:45:38.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[24Apr2025 03:45:46.344] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/room_04
+[24Apr2025 03:45:46.352] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:crypt/corridor_pool/trap_02
+[24Apr2025 03:45:57.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:45:57.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:09.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Ocean Creeper
+[24Apr2025 03:46:09.520] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:202, y:63, z:1267, dim:minecraft:overworld]
+[24Apr2025 03:46:09.524] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:46:11.192] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 03:46:29.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:29.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:39.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler

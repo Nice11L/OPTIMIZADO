@@ -1208,3 +1208,16 @@
 [24Apr2025 03:25:28.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=338, y=197, z=1271} BlockPos{x=339, y=196, z=1270}
 [24Apr2025 03:25:30.147] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=339, y=196, z=1267} BlockPos{x=340, y=195, z=1267}
 [24Apr2025 03:27:29.018] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Getting an Upgrade]
+[24Apr2025 03:40:58.807] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/chat/FilterMask$Type
+[24Apr2025 03:40:58.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <ZingyMonk719952> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[24Apr2025 03:43:58.516] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[24Apr2025 03:43:58.521] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 03:45:03.713] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[24Apr2025 03:45:38.261] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[24Apr2025 03:45:57.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:45:57.112] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:09.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Ocean Creeper
+[24Apr2025 03:46:09.524] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 03:46:29.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:29.912] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 03:46:39.570] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
