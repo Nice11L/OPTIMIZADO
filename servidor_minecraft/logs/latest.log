@@ -1681,3 +1681,7 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 05:08:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Parrots and the Bats]
 [24Apr2025 05:18:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
 [24Apr2025 05:18:13.037] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 05:22:58.422] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=324, y=195, z=1265} BlockPos{x=323, y=195, z=1264}
+[24Apr2025 05:23:48.321] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 liquified to Fanta juice
+[24Apr2025 05:23:48.334] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 05:27:20.968] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [A Seedy Place]
