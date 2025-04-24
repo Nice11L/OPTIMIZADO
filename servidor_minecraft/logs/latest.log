@@ -1112,3 +1112,74 @@
 [24Apr2025 21:16:35.553] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/network/protocol/game/ServerboundSeenAdvancementsPacket$Action
 [24Apr2025 21:16:35.556] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/CommandBlockEntity$Mode
 [24Apr2025 21:16:35.559] [Netty Epoll Server IO #1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/StructureBlockEntity$UpdateType
+[24Apr2025 22:04:48.267] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/ConnectionType
+[24Apr2025 22:04:48.335] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/network/ServerLoginPacketListenerImpl$State
+[24Apr2025 22:04:51.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.166.123.142:51909] logged in with entity id 3168 at (411.30000001192093, 195.0, 1277.9630146781371)
+[24Apr2025 22:04:51.873] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/filters/VanillaPacketSplitter$RemoteCompatibility
+[24Apr2025 22:04:51.877] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[24Apr2025 22:04:51.878] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[24Apr2025 22:04:51.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[24Apr2025 22:04:51.879] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[24Apr2025 22:04:51.885] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[24Apr2025 22:04:51.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[24Apr2025 22:04:51.892] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[24Apr2025 22:04:51.914] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/vehicle/Boat$Status
+[24Apr2025 22:04:52.013] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[24Apr2025 22:04:52.018] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilityHandler
+[24Apr2025 22:04:52.040] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/ability/AbilitySection$AbilitySectionType
+[24Apr2025 22:04:52.060] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/player/AdvancementEvent$AdvancementProgressEvent$ProgressType
+[24Apr2025 22:04:52.062] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Action
+[24Apr2025 22:04:52.122] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/network/CMessageTBCapability$SyncType
+[24Apr2025 22:04:52.138] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[24Apr2025 22:04:52.144] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/trains/signal/EdgeGroupColor
+[24Apr2025 22:04:52.244] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/advancements/AdvancementVisibilityEvaluator$VisibilityRule
+[24Apr2025 22:04:52.554] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/TankPosition
+[24Apr2025 22:04:52.566] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting be/florens/expandability/EventResult
+[24Apr2025 22:04:52.660] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/capability/ServantEntityImpl$CasterType
+[24Apr2025 22:04:52.818] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/ClipContext$Block
+[24Apr2025 22:04:52.821] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/phys/HitResult$Type
+[24Apr2025 22:04:53.041] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/util/profiling/metrics/MetricCategory
+[24Apr2025 22:04:53.423] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ClientRequestSettingsPacket$Event
+[24Apr2025 22:04:53.428] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/network/ConfirmedSetting$Event
+[24Apr2025 22:04:53.430] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting journeymap/common/network/data/Side
+[24Apr2025 22:04:53.492] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/network/NetworkEvent$RegistrationChangeType
+[24Apr2025 22:04:53.901] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/zeta/event/bus/ZResult
+[24Apr2025 22:05:20.893] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[24Apr2025 22:05:22.330] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[24Apr2025 22:05:25.036] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[24Apr2025 22:05:27.197] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[24Apr2025 22:05:30.965] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/server/commands/AdvancementCommands$Mode
+[24Apr2025 22:05:31.831] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[24Apr2025 22:05:31.832] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[24Apr2025 22:05:49.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall
+[24Apr2025 22:05:49.279] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/SpawnHelper$SpawnResult
+[24Apr2025 22:05:49.287] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/helper/LangKey
+[24Apr2025 22:05:49.319] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:05:52.640] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ovh/corail/tombstone/item/ItemCastableMagic$CastingTarget
+[24Apr2025 22:06:24.084] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[24Apr2025 22:06:24.097] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[24Apr2025 22:06:26.562] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[24Apr2025 22:09:25.599] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/127.202.202.172:39249] logged in with entity id 4523 at (164.27654312160436, 53.5625, 1257.420835653785)
+[24Apr2025 22:09:25.600] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[24Apr2025 22:09:25.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[24Apr2025 22:09:25.601] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[24Apr2025 22:09:25.602] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[24Apr2025 22:09:25.604] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[24Apr2025 22:09:25.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[24Apr2025 22:09:25.608] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[24Apr2025 22:09:25.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[24Apr2025 22:09:25.679] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[24Apr2025 22:09:27.485] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[24Apr2025 22:09:43.180] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[24Apr2025 22:11:50.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[24Apr2025 22:11:50.591] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:11:50.646] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[24Apr2025 22:11:50.646] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 0 is dual wielding: false
+[24Apr2025 22:11:50.646] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[24Apr2025 22:11:50.646] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[24Apr2025 22:11:50.647] [Netty Epoll Server IO #6/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 0 | client: 0
+[24Apr2025 22:11:50.686] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[24Apr2025 22:12:35.114] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Timed out
+[24Apr2025 22:12:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[24Apr2025 22:12:35.141] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Apr2025 22:12:36.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
