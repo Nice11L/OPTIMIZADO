@@ -1676,3 +1676,8 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 05:04:39.582] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
 [24Apr2025 05:04:53.318] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [24Apr2025 05:05:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[24Apr2025 05:08:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Spider
+[24Apr2025 05:08:30.045] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 05:08:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Parrots and the Bats]
+[24Apr2025 05:18:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[24Apr2025 05:18:13.037] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved

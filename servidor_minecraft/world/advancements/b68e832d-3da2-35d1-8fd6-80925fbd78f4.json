@@ -2896,6 +2896,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/breed_an_animal": {
+    "criteria": {
+      "bred": "2025-04-24 05:08:46 +0000"
+    },
+    "done": true
+  },
   "soulsweapons:recipes/combat/kirkhammer": {
     "criteria": {
       "has_item": "2025-04-24 04:36:36 +0000"
@@ -2980,6 +2986,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/bred_all_animals": {
+    "criteria": {
+      "minecraft:sheep": "2025-04-24 05:08:46 +0000"
+    },
+    "done": false
+  },
   "lootr:25loot": {
     "criteria": {
       "loot_stat": "2025-04-24 04:36:50 +0000"
@@ -3001,6 +3013,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-24 04:29:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dispenser": {
+    "criteria": {
+      "has_bow": "2025-04-24 05:09:11 +0000"
     },
     "done": true
   },

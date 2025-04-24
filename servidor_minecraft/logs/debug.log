@@ -13962,3 +13962,16 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 05:05:19.443] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
 [24Apr2025 05:07:53.246] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [24Apr2025 05:07:53.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:08:30.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was doomed to fall by Spider
+[24Apr2025 05:08:30.045] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:332, y:193, z:1281, dim:minecraft:overworld]
+[24Apr2025 05:08:30.045] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 05:08:31.365] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 05:08:46.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [The Parrots and the Bats]
+[24Apr2025 05:12:53.242] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:12:53.265] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:17:53.245] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 05:17:53.269] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 05:18:13.019] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[24Apr2025 05:18:13.020] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:414, y:194, z:1286, dim:minecraft:overworld]
+[24Apr2025 05:18:13.037] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 05:18:14.386] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
