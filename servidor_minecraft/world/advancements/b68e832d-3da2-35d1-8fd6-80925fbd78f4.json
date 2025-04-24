@@ -2863,6 +2863,12 @@
     },
     "done": true
   },
+  "tombstone:adventure/bone_crusher": {
+    "criteria": {
+      "coded_trigger": "2025-04-24 03:58:27 +0000"
+    },
+    "done": true
+  },
   "mcwstairs:recipes/acacia": {
     "criteria": {
       "has_planks": "2025-04-24 03:40:15 +0000"
