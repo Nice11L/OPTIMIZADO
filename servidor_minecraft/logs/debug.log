@@ -13841,3 +13841,68 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [24Apr2025 22:39:53.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
 [24Apr2025 22:39:53.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
 [24Apr2025 22:39:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:43:31.276] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:43:31.295] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:43:33.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=70, z=1272} BlockPos{x=189, y=70, z=1271}
+[24Apr2025 22:47:49.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[24Apr2025 22:47:49.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[24Apr2025 22:48:27.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:48:27.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:48:31.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:48:31.303] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 22:48:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 22:49:08.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[24Apr2025 22:49:08.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[24Apr2025 22:49:14.925] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/start_castle
+[24Apr2025 22:49:14.935] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t2
+[24Apr2025 22:49:14.936] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/bend1
+[24Apr2025 22:49:14.937] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight2
+[24Apr2025 22:49:14.938] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term3
+[24Apr2025 22:49:14.939] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term1
+[24Apr2025 22:49:14.944] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/straight1
+[24Apr2025 22:49:14.951] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/inter1
+[24Apr2025 22:49:14.952] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/roads/t1
+[24Apr2025 22:49:14.958] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:village/fortified/terminators/term2
+[24Apr2025 22:50:15.005] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[24Apr2025 22:50:16.778] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:memorial_tree/memorial_tree_01
+[24Apr2025 22:50:16.904] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:medium_graveyard/medium_graveyard_01
+[24Apr2025 22:50:17.635] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of terralith:regular/glacial/interior2
+[24Apr2025 22:50:27.424] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_05
+[24Apr2025 22:50:32.177] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_04
+[24Apr2025 22:50:32.216] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of underground_bunkers:underground_bunker/underground_bunkers_entrance_0
+[24Apr2025 22:51:06.401] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:altar/altar_01
+[24Apr2025 22:51:09.148] [Worker-Main-46/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Apr2025 22:51:15.111] [Worker-Main-38/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_09 is being run through DFU (hash c5992bdd829d32aa0929d3b8c005aa4eeaf4e7a796cdc666c5ba9bf38564ca72), this will cause launch time delays
+[24Apr2025 22:51:15.111] [Worker-Main-38/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Apr2025 22:52:03.138] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-295, y=21, z=1864}
+[24Apr2025 22:52:03.192] [Worker-Main-47/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Apr2025 22:52:07.357] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Apr2025 22:52:07.745] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_savanna
+[24Apr2025 22:52:16.862] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_04
+[24Apr2025 22:52:19.619] [Worker-Main-46/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-336, y=-6, z=1778}
+[24Apr2025 22:52:19.705] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:bohut_1
+[24Apr2025 22:52:19.707] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 22:52:19.708] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 22:52:21.138] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_03
+[24Apr2025 22:52:30.588] [Worker-Main-35/DEBUG] [ModernFix/]: Structure dungeons_arise:jungle_tree_house/jungle_tree_house_0_main is being run through DFU (hash fdaaae3527bd087ae85b0ae4174af4bc8e5fb752d703b2cfbedea3cec78e2eaa), this will cause launch time delays
+[24Apr2025 22:52:30.793] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:wishing_well/wishing_well_0
+[24Apr2025 22:52:30.806] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[24Apr2025 22:52:30.830] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:lighthouse/lighthouse_part_1
+[24Apr2025 22:52:30.848] [Worker-Main-35/DEBUG] [ModernFix/]: Structure dungeons_arise:bathhouse/bathhouse_base_5 is being run through DFU (hash f51dae16c51027e54c0d05189ad7f4ab570be0998ca7373227854d05ab73788c), this will cause launch time delays
+[24Apr2025 22:52:30.936] [Worker-Main-35/DEBUG] [ModernFix/]: Structure dungeons_arise:abandoned_temple/abandoned_temple_0 is being run through DFU (hash 509ef07905d3e6f1a301170bbd81f8df42bd9e5436df2a211855d1fa711e53d7), this will cause launch time delays
+[24Apr2025 22:53:04.136] [Worker-Main-37/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_10
+[24Apr2025 22:53:04.452] [Worker-Main-37/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_01 is being run through DFU (hash e174e253dc9ebfecc92a85e194a8cda7121592ed4303f47201d0cae4e948b6e7), this will cause launch time delays
+[24Apr2025 22:53:05.915] [Worker-Main-46/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
+[24Apr2025 22:53:08.712] [Worker-Main-37/DEBUG] [ModernFix/]: Structure born_in_chaos_v1:lookout_tower is being run through DFU (hash 69bd5f46eaa56de8fcad01102a19c9907f355ff2926fe467684f07d855c1da43), this will cause launch time delays
+[24Apr2025 22:53:10.038] [Worker-Main-35/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:cloggerplacetrue
+[24Apr2025 22:53:12.689] [Worker-Main-46/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_08 is being run through DFU (hash 95bf1e26c07c6ede910d03f28a3906e01d277b5197f836be3dc4f7fdf8515621), this will cause launch time delays
+[24Apr2025 22:53:17.210] [Worker-Main-35/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_06 is being run through DFU (hash 63276fa78d533c2e166921682e7c5317ed145426273dbcff045c3f90f00150a1), this will cause launch time delays
+[24Apr2025 22:53:17.367] [Worker-Main-35/DEBUG] [ModernFix/]: Structure graveyard:small_desert_grave/small_desert_grave_05 is being run through DFU (hash 7773e46360b7ddd152fbb2fa4274003d2ad1477ad95b31472b4409e662f280af), this will cause launch time delays
+[24Apr2025 22:53:18.037] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:goldentomb
+[24Apr2025 22:53:18.608] [Worker-Main-46/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_mountain_grave/small_mountains_grave_11
+[24Apr2025 22:53:19.214] [Worker-Main-47/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_10 is being run through DFU (hash 98cdcd6c458bc3739d34eb74acd36285e31d857e49f0c30fe25416ab3f035602), this will cause launch time delays
+[24Apr2025 22:53:20.577] [Worker-Main-38/DEBUG] [ModernFix/]: Structure graveyard:small_graveyard/small_graveyard_09 is being run through DFU (hash 511904dab45dd62e6d9ec30c18ca368ecbc2c8301fbac7f599a58a20d8788e16), this will cause launch time delays
+[24Apr2025 22:53:23.792] [Worker-Main-38/DEBUG] [ModernFix/]: Using cached upgraded version of graveyard:small_savanna_grave/small_savanna_grave_03
+[24Apr2025 22:53:24.441] [Worker-Main-47/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:irontomb
+[24Apr2025 22:53:31.266] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 22:53:31.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

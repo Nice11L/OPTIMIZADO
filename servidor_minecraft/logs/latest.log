@@ -1245,3 +1245,19 @@
 [24Apr2025 22:39:53.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
 [24Apr2025 22:39:53.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
 [24Apr2025 22:39:53.489] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Mondongo> z
+[24Apr2025 22:43:33.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=189, y=70, z=1272} BlockPos{x=189, y=70, z=1271}
+[24Apr2025 22:47:49.469] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[24Apr2025 22:47:49.470] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[24Apr2025 22:48:27.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:48:27.979] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 22:48:44.810] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 22:49:08.463] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[24Apr2025 22:49:08.484] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[24Apr2025 22:51:09.148] [Worker-Main-46/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Apr2025 22:51:15.111] [Worker-Main-38/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Apr2025 22:52:03.138] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-295, y=21, z=1864}
+[24Apr2025 22:52:03.192] [Worker-Main-47/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Apr2025 22:52:19.619] [Worker-Main-46/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-336, y=-6, z=1778}
+[24Apr2025 22:52:19.707] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 22:52:19.708] [Worker-Main-47/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 22:53:05.915] [Worker-Main-46/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/Panda$Gene
