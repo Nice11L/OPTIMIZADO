@@ -3706,6 +3706,24 @@
     },
     "done": true
   },
+  "farmersdelight:recipes/food/roasted_mutton_chops": {
+    "criteria": {
+      "has_mutton": "2025-04-24 22:21:11 +0000"
+    },
+    "done": true
+  },
+  "evilcraft:second_age": {
+    "criteria": {
+      "criteria_0": "2025-04-24 22:24:41 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/shepherds_pie_block": {
+    "criteria": {
+      "has_cooked_mutton": "2025-04-24 22:21:11 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/beehive": {
     "criteria": {
       "has_honeycomb": "2025-04-24 22:06:09 +0000"
@@ -3727,6 +3745,12 @@
   "farmersdelight:recipes/cooking/pasta_with_mutton_chop": {
     "criteria": {
       "has_any_ingredient": "2025-04-24 22:12:18 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/mutton_wrap": {
+    "criteria": {
+      "has_mutton": "2025-04-24 22:21:11 +0000"
     },
     "done": true
   },
