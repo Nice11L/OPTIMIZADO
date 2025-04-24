@@ -13630,3 +13630,114 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 04:16:17.507] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:409, y:190, z:1266, dim:minecraft:overworld]
 [24Apr2025 04:16:17.508] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
 [24Apr2025 04:16:18.952] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 04:17:53.241] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:17:53.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:22:29.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Ocean Creeper
+[24Apr2025 04:22:29.569] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:270, y:65, z:1305, dim:minecraft:overworld]
+[24Apr2025 04:22:29.574] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:22:31.696] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 04:22:53.263] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:22:53.286] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:23:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[24Apr2025 04:23:06.069] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:379, y:184, z:1281, dim:minecraft:overworld]
+[24Apr2025 04:23:06.072] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:23:07.783] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 04:24:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Creeper
+[24Apr2025 04:24:49.523] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:428, y:196, z:1264, dim:minecraft:overworld]
+[24Apr2025 04:24:49.529] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:24:51.524] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 04:25:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[24Apr2025 04:25:00.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:25:22.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:25:23.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Creeper
+[24Apr2025 04:25:23.625] [Server thread/DEBUG] [tombstone/]: A new grave of the player ZingyMonk719952 was created at position [x:359, y:194, z:1279, dim:minecraft:overworld]
+[24Apr2025 04:25:23.637] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:25:25.704] [Server thread/DEBUG] [twilightforest/]: Player ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00) respawned and received items held in storage
+[24Apr2025 04:25:47.607] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_main
+[24Apr2025 04:25:47.609] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:fishing_hut/fishing_hut_spawner_0
+[24Apr2025 04:25:58.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:00.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:15.025] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Apr2025 04:26:23.987] [Worker-Main-15/DEBUG] [ModernFix/]: Using cached upgraded version of undead_revamp2:bohut_1
+[24Apr2025 04:26:23.988] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:26:23.989] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:26:27.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 04:26:37.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:37.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:46.769] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_2
+[24Apr2025 04:26:46.777] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_3
+[24Apr2025 04:26:46.779] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_skeleton_ranged_0
+[24Apr2025 04:26:46.783] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_1
+[24Apr2025 04:26:46.784] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_1
+[24Apr2025 04:26:46.790] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_0
+[24Apr2025 04:26:46.791] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_zombie_armored_0
+[24Apr2025 04:26:46.794] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_4
+[24Apr2025 04:26:46.798] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_5
+[24Apr2025 04:26:46.801] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_7
+[24Apr2025 04:26:46.803] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of dungeons_arise:mushroom_mines/mushroom_mines_part_6
+[24Apr2025 04:26:51.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[24Apr2025 04:27:11.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Apr2025 04:27:18.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27397, l='ServerLevel[world]', x=268.50, y=82.00, z=216.50]
+[24Apr2025 04:27:25.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27433, l='ServerLevel[world]', x=203.50, y=74.00, z=195.50]
+[24Apr2025 04:27:51.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27524, l='ServerLevel[world]', x=281.50, y=83.00, z=105.50]
+[24Apr2025 04:27:53.264] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:27:53.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:28:08.555] [Worker-Main-9/DEBUG] [ModernFix/]: Structure undead_revamp2:tomb1 is being run through DFU (hash 3dc9ec999ef786910a1cd0eafb187e670f36b7d7ea39d719fdc56d0cf9c3d584), this will cause launch time delays
+[24Apr2025 04:28:08.556] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Apr2025 04:28:12.912] [Worker-Main-50/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_05 is being run through DFU (hash 0bbf75482ba9bbec44f53d5f1fd980c71152ea7e9d5e4913027f5aaf841ff972), this will cause launch time delays
+[24Apr2025 04:28:20.095] [Worker-Main-50/DEBUG] [ModernFix/]: Structure undead_revamp2:camp_bostrox2 is being run through DFU (hash 901d4f766cec098bc74e88437e052c15e627ada63e615b1c4aed02786ab32159), this will cause launch time delays
+[24Apr2025 04:28:20.110] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:28:49.247] [Worker-Main-9/DEBUG] [ModernFix/]: Structure graveyard:small_savanna_grave/small_savanna_grave_03 is being run through DFU (hash 2585f9ec808368943a97ce36435db7a7e588f6c0aa7d59f983b3828260f6ec2e), this will cause launch time delays
+[24Apr2025 04:30:31.215] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/center_tower is being run through DFU (hash 2b3c67b4eee7c7dda4d1788451b7c5a6452c8bac4c7cef66d433a74239d7056d), this will cause launch time delays
+[24Apr2025 04:30:31.414] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/gate/open_trade is being run through DFU (hash 99becb559bfff6a51804a19a2f20664f9a14e8ff84379f6ccce4c65981e4abc9), this will cause launch time delays
+[24Apr2025 04:30:31.525] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/gate/open_jail is being run through DFU (hash 8535e5dd80acb0df351b27df2ae95bad456035e8dae622e41e4564766850baf1), this will cause launch time delays
+[24Apr2025 04:30:31.607] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/gate/closed_jail is being run through DFU (hash 4c4fb0595a9e69f515c55786068da473210db7d200fd0b8f0b7c4f050e429d79), this will cause launch time delays
+[24Apr2025 04:30:31.687] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/gate/wall_church is being run through DFU (hash 2b472d977aba12713a6781dc34872cafcd308d132de4c822e697f05142370e59), this will cause launch time delays
+[24Apr2025 04:30:31.802] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/corner/inside_cage_stairwell is being run through DFU (hash 85ed3f61d30b3a42e4946d3c3a4b2f8db5a002398f14dba38dade6fbb4e88bad), this will cause launch time delays
+[24Apr2025 04:30:31.942] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/corner/outside_inner_corner_ravager is being run through DFU (hash d4ebfcfa344b6a04be138edc091102f22defab58b43aacf279686577bdfdf39d), this will cause launch time delays
+[24Apr2025 04:30:32.047] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/corner/outside_cage is being run through DFU (hash f7145d7248f9fe99cbc779d93e0d930689ff2839070d8e06d984e474dc8dddfe), this will cause launch time delays
+[24Apr2025 04:30:32.135] [Worker-Main-9/DEBUG] [ModernFix/]: Structure takesapillage:bastille/corner/outside_corner_barracks is being run through DFU (hash 0905746fc347a28c56d07693d2d1eb68a19fea6a62363d466de78873704cecaf), this will cause launch time delays
+[24Apr2025 04:30:33.212] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Apr2025 04:30:33.581] [Worker-Main-9/DEBUG] [ModernFix/]: Using cached upgraded version of born_in_chaos_v1:pumkin_evil
+[24Apr2025 04:30:34.323] [Worker-Main-1/DEBUG] [ModernFix/]: Structure graveyard:small_mountain_grave/small_mountains_grave_10 is being run through DFU (hash c7974966b3cacec8f613dc29c7de8da5876a080944286a022e569a6cf4e769ea), this will cause launch time delays
+[24Apr2025 04:30:48.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:30:49.942] [Server thread/DEBUG] [ModernFix/]: Structure graveyard:small_grave/crashed_carriage is being run through DFU (hash cb4c7576283492f43f08b1c9542f9e4c80143b74ac3018d6cf122cbc71b28240), this will cause launch time delays
+[24Apr2025 04:30:50.305] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:small_grave/small_grave_13 is being run through DFU (hash be147b02042888c3ee04f32b1ec22eba46a28181be72f3defe68bcfa98203d41), this will cause launch time delays
+[24Apr2025 04:31:19.718] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of beautify:botanist_house_savanna
+[24Apr2025 04:31:19.894] [Server thread/DEBUG] [ModernFix/]: Using cached upgraded version of waystones:village/common/waystone
+[24Apr2025 04:31:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Barrel Booty]
+[24Apr2025 04:31:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Mimic
+[24Apr2025 04:31:41.873] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:467, y:32, z:-49, dim:minecraft:overworld]
+[24Apr2025 04:31:41.875] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:31:43.424] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 04:32:04.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Chest Slayer]
+[24Apr2025 04:32:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Suit Up]
+[24Apr2025 04:32:53.251] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[24Apr2025 04:32:53.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[24Apr2025 04:32:54.776] [Worker-Main-15/DEBUG] [ModernFix/]: Structure graveyard:mushroom_grave/mushroom_grave_02 is being run through DFU (hash 6c98c195438c0b2323313d3570c3dd65a6e6b8954d97180f326060e8061c0164), this will cause launch time delays
+[24Apr2025 04:33:16.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:33:31.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31468, l='ServerLevel[world]', x=296.50, y=72.00, z=24.50]
+[24Apr2025 04:33:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[24Apr2025 04:33:44.771] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:425, y:30, z:48, dim:minecraft:overworld]
+[24Apr2025 04:33:44.774] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:33:46.015] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[24Apr2025 04:34:14.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32521, l='ServerLevel[world]', x=279.50, y=83.00, z=106.50]
+[24Apr2025 04:34:23.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32559, l='ServerLevel[world]', x=360.50, y=78.00, z=127.50]
+[24Apr2025 04:34:29.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32687, l='ServerLevel[world]', x=262.50, y=72.00, z=17.50]
+[24Apr2025 04:35:01.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32841, l='ServerLevel[world]', x=290.50, y=76.00, z=83.50]
+[24Apr2025 04:35:03.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32845, l='ServerLevel[world]', x=340.50, y=79.00, z=126.50]
+[24Apr2025 04:35:04.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32847, l='ServerLevel[world]', x=370.50, y=71.00, z=174.50]
+[24Apr2025 04:35:14.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32868, l='ServerLevel[world]', x=359.50, y=73.00, z=190.50]
+[24Apr2025 04:35:26.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32925, l='ServerLevel[world]', x=325.50, y=77.00, z=113.50]
+[24Apr2025 04:35:57.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33164, l='ServerLevel[world]', x=310.50, y=73.00, z=128.50]
+[24Apr2025 04:36:01.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33282, l='ServerLevel[world]', x=267.50, y=82.00, z=215.50]
+[24Apr2025 04:36:10.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33354, l='ServerLevel[world]', x=362.50, y=78.00, z=129.50]
+[24Apr2025 04:36:12.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[24Apr2025 04:36:14.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33389, l='ServerLevel[world]', x=340.50, y=79.00, z=128.50]
+[24Apr2025 04:36:37.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33470, l='ServerLevel[world]', x=370.50, y=71.00, z=173.50]
+[24Apr2025 04:36:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Close Quarters]
+[24Apr2025 04:36:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Cover Me with Diamonds]
+[24Apr2025 04:36:55.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33765, l='ServerLevel[world]', x=358.50, y=73.00, z=189.50]
+[24Apr2025 04:37:02.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33826, l='ServerLevel[world]', x=324.50, y=72.00, z=0.50]
+[24Apr2025 04:37:11.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33898, l='ServerLevel[world]', x=247.50, y=70.00, z=160.50]
+[24Apr2025 04:37:41.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34100, l='ServerLevel[world]', x=279.50, y=83.00, z=107.50]

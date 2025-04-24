@@ -1440,3 +1440,60 @@ java.lang.IllegalArgumentException: sectionPos out of bounds
 [24Apr2025 04:14:06.818] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 has made the advancement [Dark Metallurgy]
 [24Apr2025 04:16:17.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 fell from a high place
 [24Apr2025 04:16:17.508] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:22:29.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was slain by Ocean Creeper
+[24Apr2025 04:22:29.574] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:23:06.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[24Apr2025 04:23:06.072] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:24:49.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was blown up by Creeper
+[24Apr2025 04:24:49.529] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:25:00.385] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported ZingyMonk719952 to amigobuho360]
+[24Apr2025 04:25:00.464] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:25:22.562] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:25:23.624] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was blown up by Creeper
+[24Apr2025 04:25:23.637] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[24Apr2025 04:25:58.762] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:00.512] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:15.025] [Worker-Main-15/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[24Apr2025 04:26:23.988] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:26:23.989] [Worker-Main-15/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:26:27.218] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
+[24Apr2025 04:26:37.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:37.961] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:26:51.583] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 moved wrongly!
+[24Apr2025 04:27:11.568] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[24Apr2025 04:27:18.763] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27397, l='ServerLevel[world]', x=268.50, y=82.00, z=216.50]
+[24Apr2025 04:27:25.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27433, l='ServerLevel[world]', x=203.50, y=74.00, z=195.50]
+[24Apr2025 04:27:51.262] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/27524, l='ServerLevel[world]', x=281.50, y=83.00, z=105.50]
+[24Apr2025 04:28:08.556] [Worker-Main-9/INFO] [ModernFix/]: Instantiating Mojang DFU
+[24Apr2025 04:28:20.110] [Worker-Main-50/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[24Apr2025 04:30:33.212] [Worker-Main-1/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/animal/horse/Markings
+[24Apr2025 04:30:48.363] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:31:31.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Barrel Booty]
+[24Apr2025 04:31:41.872] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Mimic
+[24Apr2025 04:31:41.875] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:32:04.785] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Chest Slayer]
+[24Apr2025 04:32:30.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Suit Up]
+[24Apr2025 04:33:16.261] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[24Apr2025 04:33:31.714] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/31468, l='ServerLevel[world]', x=296.50, y=72.00, z=24.50]
+[24Apr2025 04:33:44.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
+[24Apr2025 04:33:44.774] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 04:34:14.314] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32521, l='ServerLevel[world]', x=279.50, y=83.00, z=106.50]
+[24Apr2025 04:34:23.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32559, l='ServerLevel[world]', x=360.50, y=78.00, z=127.50]
+[24Apr2025 04:34:29.566] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32687, l='ServerLevel[world]', x=262.50, y=72.00, z=17.50]
+[24Apr2025 04:35:01.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32841, l='ServerLevel[world]', x=290.50, y=76.00, z=83.50]
+[24Apr2025 04:35:03.461] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32845, l='ServerLevel[world]', x=340.50, y=79.00, z=126.50]
+[24Apr2025 04:35:04.013] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32847, l='ServerLevel[world]', x=370.50, y=71.00, z=174.50]
+[24Apr2025 04:35:14.412] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32868, l='ServerLevel[world]', x=359.50, y=73.00, z=190.50]
+[24Apr2025 04:35:26.664] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/32925, l='ServerLevel[world]', x=325.50, y=77.00, z=113.50]
+[24Apr2025 04:35:57.214] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33164, l='ServerLevel[world]', x=310.50, y=73.00, z=128.50]
+[24Apr2025 04:36:01.964] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33282, l='ServerLevel[world]', x=267.50, y=82.00, z=215.50]
+[24Apr2025 04:36:10.062] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33354, l='ServerLevel[world]', x=362.50, y=78.00, z=129.50]
+[24Apr2025 04:36:12.834] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[24Apr2025 04:36:14.463] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33389, l='ServerLevel[world]', x=340.50, y=79.00, z=128.50]
+[24Apr2025 04:36:37.565] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33470, l='ServerLevel[world]', x=370.50, y=71.00, z=173.50]
+[24Apr2025 04:36:50.773] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Close Quarters]
+[24Apr2025 04:36:53.671] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Cover Me with Diamonds]
+[24Apr2025 04:36:55.311] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33765, l='ServerLevel[world]', x=358.50, y=73.00, z=189.50]
+[24Apr2025 04:37:02.362] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33826, l='ServerLevel[world]', x=324.50, y=72.00, z=0.50]
+[24Apr2025 04:37:11.962] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/33898, l='ServerLevel[world]', x=247.50, y=70.00, z=160.50]
+[24Apr2025 04:37:41.112] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Hanging Coconut'/34100, l='ServerLevel[world]', x=279.50, y=83.00, z=107.50]
