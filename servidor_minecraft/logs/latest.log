@@ -1183,3 +1183,40 @@
 [24Apr2025 22:12:35.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
 [24Apr2025 22:12:35.141] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
 [24Apr2025 22:12:36.751] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[24Apr2025 22:12:54.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[24Apr2025 22:12:54.944] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:12:59.403] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/127.202.202.172:38423] logged in with entity id 5897 at (198.86565476190447, 67.0, 1256.781120797487)
+[24Apr2025 22:12:59.404] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[24Apr2025 22:12:59.404] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[24Apr2025 22:12:59.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[24Apr2025 22:12:59.405] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[24Apr2025 22:12:59.408] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[24Apr2025 22:12:59.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[24Apr2025 22:12:59.410] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[24Apr2025 22:12:59.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[24Apr2025 22:12:59.450] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[24Apr2025 22:13:37.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Nightmare Stalker
+[24Apr2025 22:13:37.492] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:13:51.092] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: You logged in from another location
+[24Apr2025 22:13:51.093] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
+[24Apr2025 22:13:51.144] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[24Apr2025 22:13:51.145] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/127.202.202.172:57987] logged in with entity id 6564 at (198.86565476190447, 67.0, 1256.781120797487)
+[24Apr2025 22:13:51.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[24Apr2025 22:13:51.146] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[24Apr2025 22:13:51.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[24Apr2025 22:13:51.147] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[24Apr2025 22:13:51.149] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[24Apr2025 22:13:51.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[24Apr2025 22:13:51.154] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[24Apr2025 22:13:51.178] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[24Apr2025 22:13:51.214] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[24Apr2025 22:14:48.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Skeleton
+[24Apr2025 22:14:49.008] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:15:14.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 22:16:02.030] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[24Apr2025 22:19:02.533] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 drowned
+[24Apr2025 22:19:02.537] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[24Apr2025 22:19:04.708] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[24Apr2025 22:19:04.711] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[24Apr2025 22:19:09.690] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
+[24Apr2025 22:22:37.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Teleported amigobuho360 to Mondongo]
