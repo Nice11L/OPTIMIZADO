@@ -1427,3 +1427,40 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:26:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
 [26Apr2025 23:26:11.897] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
 [26Apr2025 23:26:20.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20593, l='ServerLevel[world]', x=177.50, y=-20.00, z=205.50] died: Restless Spirit was killed
+[26Apr2025 23:26:41.840] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[26Apr2025 23:26:41.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 23:26:43.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21552, l='ServerLevel[world]', x=178.50, y=-20.00, z=219.50] died: Restless Spirit was killed
+[26Apr2025 23:26:43.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21555, l='ServerLevel[world]', x=179.50, y=-20.00, z=217.50] died: Restless Spirit was killed
+[26Apr2025 23:26:43.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21559, l='ServerLevel[world]', x=182.50, y=-20.00, z=217.50] died: Restless Spirit was killed
+[26Apr2025 23:26:57.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21916, l='ServerLevel[world]', x=191.50, y=-20.00, z=200.50] died: Restless Spirit was killed
+[26Apr2025 23:26:57.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21919, l='ServerLevel[world]', x=194.50, y=-20.00, z=202.50] died: Restless Spirit was killed
+[26Apr2025 23:27:11.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/21994, l='ServerLevel[world]', x=151.50, y=-20.00, z=205.50] died: Restless Spirit was killed
+[26Apr2025 23:27:37.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22083, l='ServerLevel[world]', x=57.50, y=-20.00, z=190.50] died: Restless Spirit was killed
+[26Apr2025 23:27:37.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22094, l='ServerLevel[world]', x=147.50, y=-20.00, z=145.50] died: Restless Spirit was killed
+[26Apr2025 23:27:50.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22120, l='ServerLevel[world]', x=64.50, y=-20.00, z=94.50] died: Restless Spirit was killed
+[26Apr2025 23:28:50.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22239, l='ServerLevel[world]', x=182.50, y=-20.00, z=224.50] died: Restless Spirit was killed
+[26Apr2025 23:28:50.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22243, l='ServerLevel[world]', x=179.50, y=-20.00, z=221.50] died: Restless Spirit was killed
+[26Apr2025 23:29:27.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22324, l='ServerLevel[world]', x=191.50, y=-20.00, z=197.50] died: Restless Spirit was killed
+[26Apr2025 23:29:28.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22335, l='ServerLevel[world]', x=176.50, y=-20.00, z=182.50] died: Restless Spirit was killed
+[26Apr2025 23:29:30.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22343, l='ServerLevel[world]', x=152.50, y=-20.00, z=190.50] died: Restless Spirit was killed
+[26Apr2025 23:29:30.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22346, l='ServerLevel[world]', x=151.50, y=-20.00, z=189.50] died: Restless Spirit was killed
+[26Apr2025 23:29:39.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22361, l='ServerLevel[world]', x=176.50, y=-20.00, z=221.50] died: Restless Spirit was killed
+[26Apr2025 23:29:41.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22370, l='ServerLevel[world]', x=156.50, y=-20.00, z=205.50] died: Restless Spirit was killed
+[26Apr2025 23:29:43.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22396, l='ServerLevel[world]', x=182.50, y=-20.00, z=110.50] died: Restless Spirit was killed
+[26Apr2025 23:30:29.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[26Apr2025 23:30:29.233] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:30:29.316] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 23:30:29.316] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 6 is dual wielding: false
+[26Apr2025 23:30:29.316] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 23:30:29.316] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 23:30:29.316] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 2 | client: 2
+[26Apr2025 23:30:30.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22512, l='ServerLevel[world]', x=165.60, y=-20.00, z=117.61] died: Restless Spirit was killed
+[26Apr2025 23:30:44.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/22673, l='ServerLevel[world]', x=126.50, y=-20.00, z=218.50] died: Restless Spirit was killed
+[26Apr2025 23:32:57.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/23250, l='ServerLevel[world]', x=190.50, y=-20.00, z=214.50] died: Restless Spirit was killed
+[26Apr2025 23:33:12.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24321, l='ServerLevel[world]', x=37.50, y=-20.00, z=300.50] died: Restless Spirit was killed
+[26Apr2025 23:33:25.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24589, l='ServerLevel[world]', x=160.50, y=-20.00, z=253.50] died: Restless Spirit was killed
+[26Apr2025 23:33:38.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24755, l='ServerLevel[world]', x=196.50, y=-20.00, z=248.50] died: Restless Spirit was killed
+[26Apr2025 23:33:48.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24826, l='ServerLevel[world]', x=46.50, y=-20.00, z=299.50] died: Restless Spirit was killed
+[26Apr2025 23:33:48.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24829, l='ServerLevel[world]', x=44.50, y=-20.00, z=299.50] died: Restless Spirit was killed
+[26Apr2025 23:34:33.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25441, l='ServerLevel[world]', x=173.50, y=-20.00, z=185.50] died: Restless Spirit was killed
+[26Apr2025 23:34:33.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25456, l='ServerLevel[world]', x=73.50, y=-20.00, z=291.50] died: Restless Spirit was killed
