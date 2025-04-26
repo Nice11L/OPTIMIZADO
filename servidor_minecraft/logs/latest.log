@@ -1314,3 +1314,116 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:02:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 burned to death
 [26Apr2025 23:02:09.443] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [26Apr2025 23:06:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Good Demoman]
+[26Apr2025 23:06:49.788] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Level$ExplosionInteraction
+[26Apr2025 23:06:49.789] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/Explosion$BlockInteraction
+[26Apr2025 23:07:00.299] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was blown up by Creeper
+[26Apr2025 23:07:00.312] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[26Apr2025 23:10:30.511] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2884ms or 57 ticks behind
+[26Apr2025 23:13:16.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Kasha
+[26Apr2025 23:13:16.747] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[26Apr2025 23:13:17.914] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 23:13:18.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12243, l='ServerLevel[world]', x=59.50, y=-20.00, z=224.50] died: Restless Spirit was killed
+[26Apr2025 23:13:18.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12246, l='ServerLevel[world]', x=60.50, y=-20.00, z=224.50] died: Restless Spirit was killed
+[26Apr2025 23:13:37.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12357, l='ServerLevel[world]', x=28.50, y=-20.00, z=256.50] died: Restless Spirit was killed
+[26Apr2025 23:13:44.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:51979] logged in with entity id 13561 at (205.53859802940357, 67.0, 1253.6933964138607)
+[26Apr2025 23:13:44.550] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 23:13:44.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 23:13:44.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 23:13:44.551] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 23:13:44.552] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 23:13:44.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 23:13:44.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 23:13:44.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 23:13:44.651] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 23:13:56.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12442, l='ServerLevel[world]', x=6.50, y=-20.00, z=195.50] died: Restless Spirit was killed
+[26Apr2025 23:14:01.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12471, l='ServerLevel[world]', x=-58.50, y=-20.00, z=175.50] died: Restless Spirit was killed
+[26Apr2025 23:14:08.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12552, l='ServerLevel[world]', x=-16.50, y=-20.00, z=130.50] died: Restless Spirit was killed
+[26Apr2025 23:14:08.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12555, l='ServerLevel[world]', x=-18.50, y=-20.00, z=130.50] died: Restless Spirit was killed
+[26Apr2025 23:14:08.634] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12558, l='ServerLevel[world]', x=-17.50, y=-20.00, z=131.50] died: Restless Spirit was killed
+[26Apr2025 23:14:08.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12561, l='ServerLevel[world]', x=-19.50, y=-20.00, z=128.50] died: Restless Spirit was killed
+[26Apr2025 23:14:18.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12628, l='ServerLevel[world]', x=57.50, y=-20.00, z=208.50] died: Restless Spirit was killed
+[26Apr2025 23:14:37.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12919, l='ServerLevel[world]', x=-48.50, y=-20.00, z=276.50] died: Restless Spirit was killed
+[26Apr2025 23:14:40.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/12951, l='ServerLevel[world]', x=-28.50, y=-20.00, z=293.50] died: Restless Spirit was killed
+[26Apr2025 23:14:42.606] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[26Apr2025 23:14:42.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 23:14:42.637] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 23:15:02.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13007, l='ServerLevel[world]', x=-62.50, y=-20.00, z=188.50] died: Restless Spirit was killed
+[26Apr2025 23:15:25.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13147, l='ServerLevel[world]', x=36.50, y=-20.00, z=295.50] died: Restless Spirit was killed
+[26Apr2025 23:15:25.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13155, l='ServerLevel[world]', x=3.50, y=-20.00, z=325.50] died: Restless Spirit was killed
+[26Apr2025 23:15:27.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13182, l='ServerLevel[world]', x=79.50, y=-20.00, z=180.50] died: Restless Spirit was killed
+[26Apr2025 23:15:27.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13185, l='ServerLevel[world]', x=79.50, y=-20.00, z=178.50] died: Restless Spirit was killed
+[26Apr2025 23:15:27.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/13188, l='ServerLevel[world]', x=80.50, y=-20.00, z=181.50] died: Restless Spirit was killed
+[26Apr2025 23:16:09.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Nightmare Stalker
+[26Apr2025 23:16:09.595] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:16:27.341] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Zombie
+[26Apr2025 23:16:27.361] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:16:36.635] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14819, l='ServerLevel[world]', x=54.50, y=-20.00, z=310.50] died: Restless Spirit was killed
+[26Apr2025 23:16:37.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Kasha
+[26Apr2025 23:16:37.375] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[26Apr2025 23:16:39.046] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 23:16:41.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14655, l='ServerLevel[world]', x=9.50, y=-20.00, z=184.50] died: Restless Spirit was killed
+[26Apr2025 23:16:41.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14657, l='ServerLevel[world]', x=11.50, y=-20.00, z=184.50] died: Restless Spirit was killed
+[26Apr2025 23:16:46.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/15337, l='ServerLevel[world]', x=-1.50, y=-20.00, z=194.50] died: Restless Spirit was killed
+[26Apr2025 23:16:55.893] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[26Apr2025 23:16:55.961] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:16:55.998] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 23:16:55.998] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 7 is dual wielding: false
+[26Apr2025 23:16:55.999] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 23:16:55.999] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 23:16:55.999] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[26Apr2025 23:16:58.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14723, l='ServerLevel[world]', x=36.50, y=-20.00, z=283.50] died: Restless Spirit was killed
+[26Apr2025 23:17:03.536] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Hunter
+[26Apr2025 23:17:03.557] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Server handling Packets.C2S_AttackRequest - No current attack hand!
+[26Apr2025 23:17:03.557] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Combo count: 3 is dual wielding: false
+[26Apr2025 23:17:03.557] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Main-hand stack: 0 air
+[26Apr2025 23:17:03.557] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Off-hand stack: 0 air
+[26Apr2025 23:17:03.557] [Netty Epoll Server IO #5/ERROR] [net.bettercombat.network.ServerNetwork/]: Selected slot server: 1 | client: 1
+[26Apr2025 23:17:03.562] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:17:23.593] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/player/Player$BedSleepingProblem
+[26Apr2025 23:17:31.393] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@379ca348[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:60897) lost connection: Disconnected
+[26Apr2025 23:19:05.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14867, l='ServerLevel[world]', x=-31.50, y=-20.00, z=208.50] died: Restless Spirit was killed
+[26Apr2025 23:19:05.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/14871, l='ServerLevel[world]', x=-30.50, y=-20.00, z=205.50] died: Restless Spirit was killed
+[26Apr2025 23:19:14.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/15555, l='ServerLevel[world]', x=9.50, y=-20.00, z=137.50] died: Restless Spirit was killed
+[26Apr2025 23:19:35.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17383, l='ServerLevel[world]', x=57.33, y=-20.00, z=146.21] died: Restless Spirit was killed
+[26Apr2025 23:19:38.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/17418, l='ServerLevel[world]', x=-22.50, y=-20.00, z=161.50] died: Restless Spirit was killed
+[26Apr2025 23:20:57.287] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was shot by Pillager
+[26Apr2025 23:20:57.300] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:21:26.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has made the advancement [Voluntary Exile]
+[26Apr2025 23:22:58.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18601, l='ServerLevel[world]', x=50.50, y=-20.00, z=297.50] died: Restless Spirit was killed
+[26Apr2025 23:23:15.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/18750, l='ServerLevel[world]', x=96.50, y=-20.00, z=189.50] died: Restless Spirit was killed
+[26Apr2025 23:23:54.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19938, l='ServerLevel[world]', x=183.50, y=-20.00, z=197.50] died: Restless Spirit was killed
+[26Apr2025 23:23:54.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19941, l='ServerLevel[world]', x=184.50, y=-20.00, z=196.50] died: Restless Spirit was killed
+[26Apr2025 23:24:08.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was pummeled by Alraune
+[26Apr2025 23:24:08.149] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:24:09.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19990, l='ServerLevel[world]', x=147.50, y=-20.00, z=165.50] died: Restless Spirit was killed
+[26Apr2025 23:24:09.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/19993, l='ServerLevel[world]', x=142.50, y=-20.00, z=167.50] died: Restless Spirit was killed
+[26Apr2025 23:24:15.251] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:43291] logged in with entity id 21571 at (205.53859802940357, 67.0, 1253.6933964138607)
+[26Apr2025 23:24:15.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 23:24:15.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 23:24:15.253] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 23:24:15.254] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 23:24:15.255] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 23:24:15.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 23:24:15.257] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 23:24:15.274] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 23:24:15.327] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 23:24:36.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20397, l='ServerLevel[world]', x=176.50, y=-20.00, z=154.50] died: Restless Spirit was killed
+[26Apr2025 23:24:44.496] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 was killed
+[26Apr2025 23:24:44.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ZingyMonk719952: Killed ZingyMonk719952]
+[26Apr2025 23:24:44.507] [Server thread/INFO] [tombstone/]: The player ZingyMonk719952 has successfully been saved
+[26Apr2025 23:25:13.303] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[26Apr2025 23:25:13.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 23:25:13.348] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 23:25:20.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20443, l='ServerLevel[world]', x=134.50, y=-20.00, z=205.50] died: Restless Spirit was killed
+[26Apr2025 23:25:20.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20446, l='ServerLevel[world]', x=132.50, y=-20.00, z=207.50] died: Restless Spirit was killed
+[26Apr2025 23:26:11.854] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:33019] logged in with entity id 22203 at (205.53859802940357, 67.0, 1253.6933964138607)
+[26Apr2025 23:26:11.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 23:26:11.855] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 23:26:11.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 23:26:11.856] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 23:26:11.857] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 23:26:11.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 23:26:11.858] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 23:26:11.874] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 23:26:11.897] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 23:26:20.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/20593, l='ServerLevel[world]', x=177.50, y=-20.00, z=205.50] died: Restless Spirit was killed
