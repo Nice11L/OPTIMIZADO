@@ -1466,3 +1466,29 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:34:33.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25456, l='ServerLevel[world]', x=73.50, y=-20.00, z=291.50] died: Restless Spirit was killed
 [26Apr2025 23:42:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wheezer
 [26Apr2025 23:42:58.643] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:50:37.476] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has completed the challenge [Yo mama so fat, she digests her kids]
+[26Apr2025 23:50:37.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [First big catch of the month!]
+[26Apr2025 23:51:33.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Sucker
+[26Apr2025 23:51:33.490] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[26Apr2025 23:51:35.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 23:51:35.180] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 23:51:37.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[26Apr2025 23:51:37.092] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:51:42.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31009, l='ServerLevel[world]', x=43.50, y=-20.00, z=287.50] died: Restless Spirit was killed
+[26Apr2025 23:51:49.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31450, l='ServerLevel[world]', x=176.50, y=-20.00, z=182.50] died: Restless Spirit was killed
+[26Apr2025 23:51:57.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31466, l='ServerLevel[world]', x=177.50, y=-20.00, z=231.50] died: Restless Spirit was killed
+[26Apr2025 23:52:03.339] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/OreDeposit$OreType
+[26Apr2025 23:52:03.340] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/yungnickyoung/minecraft/bettermineshafts/world/generator/pieces/SmallTunnelTurn$TurnDirection
+[26Apr2025 23:52:08.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31413, l='ServerLevel[world]', x=171.50, y=-20.00, z=230.50] died: Restless Spirit was killed
+[26Apr2025 23:54:12.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31129, l='ServerLevel[world]', x=-9.50, y=-20.00, z=154.50] died: Restless Spirit was killed
+[26Apr2025 23:54:21.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/31583, l='ServerLevel[world]', x=2.50, y=-20.00, z=127.50] died: Restless Spirit was killed
+[26Apr2025 23:54:27.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32398, l='ServerLevel[world]', x=-12.83, y=-20.00, z=272.80] died: Restless Spirit was killed
+[26Apr2025 23:54:28.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32403, l='ServerLevel[world]', x=-21.50, y=-20.00, z=296.50] died: Restless Spirit was killed
+[26Apr2025 23:54:28.632] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32414, l='ServerLevel[world]', x=27.07, y=-20.00, z=211.12] died: Restless Spirit was killed
+[26Apr2025 23:54:28.633] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32424, l='ServerLevel[world]', x=22.50, y=-20.00, z=324.50] died: Restless Spirit was killed
+[26Apr2025 23:54:29.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32436, l='ServerLevel[world]', x=-17.50, y=-20.00, z=301.50] died: Restless Spirit was killed
+[26Apr2025 23:54:29.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32446, l='ServerLevel[world]', x=61.50, y=-20.00, z=282.50] died: Restless Spirit was killed
+[26Apr2025 23:54:31.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32461, l='ServerLevel[world]', x=-16.50, y=-20.00, z=331.50] died: Restless Spirit was killed
+[26Apr2025 23:54:31.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32468, l='ServerLevel[world]', x=-14.50, y=-20.00, z=166.50] died: Restless Spirit was killed
+[26Apr2025 23:54:32.630] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32485, l='ServerLevel[world]', x=-11.50, y=-20.00, z=290.50] died: Restless Spirit was killed
+[26Apr2025 23:54:32.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32488, l='ServerLevel[world]', x=-9.50, y=-20.00, z=293.50] died: Restless Spirit was killed
