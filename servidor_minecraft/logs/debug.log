@@ -15953,3 +15953,13 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:33:48.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24829, l='ServerLevel[world]', x=44.50, y=-20.00, z=299.50] died: Restless Spirit was killed
 [26Apr2025 23:34:33.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25441, l='ServerLevel[world]', x=173.50, y=-20.00, z=185.50] died: Restless Spirit was killed
 [26Apr2025 23:34:33.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25456, l='ServerLevel[world]', x=73.50, y=-20.00, z=291.50] died: Restless Spirit was killed
+[26Apr2025 23:36:54.726] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:36:54.753] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:41:54.733] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:41:54.758] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:42:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wheezer
+[26Apr2025 23:42:58.639] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:407, y:194, z:1293, dim:minecraft:overworld]
+[26Apr2025 23:42:58.643] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:45:00.612] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[26Apr2025 23:46:54.720] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Apr2025 23:46:54.749] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world

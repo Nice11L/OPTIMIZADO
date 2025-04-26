@@ -1464,3 +1464,5 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:33:48.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/24829, l='ServerLevel[world]', x=44.50, y=-20.00, z=299.50] died: Restless Spirit was killed
 [26Apr2025 23:34:33.629] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25441, l='ServerLevel[world]', x=173.50, y=-20.00, z=185.50] died: Restless Spirit was killed
 [26Apr2025 23:34:33.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/25456, l='ServerLevel[world]', x=73.50, y=-20.00, z=291.50] died: Restless Spirit was killed
+[26Apr2025 23:42:58.638] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wheezer
+[26Apr2025 23:42:58.643] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
