@@ -1183,3 +1183,83 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 22:35:37.434] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
 [26Apr2025 22:35:37.435] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
 [26Apr2025 22:35:37.470] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 22:37:41.020] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:46001] logged in with entity id 3729 at (30.4466043161794, 74.0, 62.30000001192093)
+[26Apr2025 22:37:41.021] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 22:37:41.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 22:37:41.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 22:37:41.022] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 22:37:41.025] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 22:37:41.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 22:37:41.028] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 22:37:41.056] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 22:37:41.076] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 22:37:49.915] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Mondongo[/127.162.78.143:41881] logged in with entity id 4006 at (160.30000001192093, 53.0, 1257.5497532881232)
+[26Apr2025 22:37:49.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to Mondongo
+[26Apr2025 22:37:49.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to Mondongo
+[26Apr2025 22:37:49.917] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to Mondongo
+[26Apr2025 22:37:49.918] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to Mondongo
+[26Apr2025 22:37:49.920] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to Mondongo
+[26Apr2025 22:37:49.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to Mondongo
+[26Apr2025 22:37:49.923] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to Mondongo
+[26Apr2025 22:37:49.951] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo joined the game
+[26Apr2025 22:37:49.971] [Server thread/INFO] [Jade/]: Syncing config to Mondongo (2b90c025-deb2-3151-a1dc-c6e27c00f9db)
+[26Apr2025 22:37:50.792] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 22:37:50.793] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[26Apr2025 22:37:51.963] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/belt/behaviour/BeltProcessingBehaviour$ProcessingResult
+[26Apr2025 22:37:51.964] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/simibubi/create/content/kinetics/press/PressingBehaviour$Mode
+[26Apr2025 22:38:22.975] [Netty Epoll Server IO #6/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/bettercombat/logic/AnimatedHand
+[26Apr2025 22:38:24.969] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/api/event/SimpleHarvestEvent$ActionType
+[26Apr2025 22:38:39.113] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[26Apr2025 22:38:39.113] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 22:38:39.152] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 22:38:50.835] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/DoubleBlockCombiner$BlockType
+[26Apr2025 22:39:09.681] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting tech/thatgravyboat/creeperoverhaul/common/entity/custom/PufferfishCreeper$Variant
+[26Apr2025 22:40:05.002] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:59447] logged in with entity id 4710 at (30.4466043161794, 74.0, 62.30000001192093)
+[26Apr2025 22:40:05.003] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 22:40:05.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 22:40:05.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 22:40:05.004] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 22:40:05.007] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 22:40:05.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 22:40:05.010] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 22:40:05.033] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 22:40:05.049] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 22:40:29.022] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Mondongo: Teleported ZingyMonk719952 to Mondongo]
+[26Apr2025 22:40:43.282] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[26Apr2025 22:41:03.106] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[26Apr2025 22:41:03.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 22:41:03.135] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 22:41:47.486] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[26Apr2025 22:41:47.489] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[26Apr2025 22:41:51.815] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[26Apr2025 22:42:02.688] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@33dd0f5e[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:37725) lost connection: Disconnected
+[26Apr2025 22:42:44.631] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3ce1b6e3[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:44517) lost connection: Disconnected
+[26Apr2025 22:42:49.710] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.166.123.142:46943] logged in with entity id 5328 at (316.82883623685393, 194.0, 1281.5385857850836)
+[26Apr2025 22:42:49.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[26Apr2025 22:42:49.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[26Apr2025 22:42:49.712] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[26Apr2025 22:42:49.713] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[26Apr2025 22:42:49.714] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[26Apr2025 22:42:49.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[26Apr2025 22:42:49.717] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[26Apr2025 22:42:49.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[26Apr2025 22:42:49.813] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[26Apr2025 22:43:15.869] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=484, y=-54, z=1565}
+[26Apr2025 22:43:34.133] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/living/LivingChangeTargetEvent$LivingTargetType
+[26Apr2025 22:44:50.691] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedbackpacks/common/gui/BackpackContext$ContextType
+[26Apr2025 22:44:50.706] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/renderdata/DisplaySide
+[26Apr2025 22:45:22.552] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:53071] logged in with entity id 6485 at (205.53859802940357, 67.0, 1253.6933964138607)
+[26Apr2025 22:45:22.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[26Apr2025 22:45:22.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[26Apr2025 22:45:22.554] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[26Apr2025 22:45:22.555] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[26Apr2025 22:45:22.556] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[26Apr2025 22:45:22.558] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[26Apr2025 22:45:22.558] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[26Apr2025 22:45:22.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[26Apr2025 22:45:22.660] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[26Apr2025 22:45:22.662] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
+[26Apr2025 22:45:22.662] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 22:45:22.686] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[26Apr2025 22:45:45.334] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/github/L_Ender/lionfishapi/server/animation/AnimationHandler
+[26Apr2025 22:45:59.933] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/block/entity/BeehiveBlockEntity$BeeReleaseStatus
