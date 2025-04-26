@@ -1310,3 +1310,7 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 22:51:46.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 has completed the challenge [One eyed big skelly]
 [26Apr2025 22:51:47.740] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Disconnected
 [26Apr2025 22:51:47.741] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[26Apr2025 22:59:17.824] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/p3pp3rf1y/sophisticatedcore/common/gui/SortBy
+[26Apr2025 23:02:09.439] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 burned to death
+[26Apr2025 23:02:09.443] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:06:28.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Good Demoman]
