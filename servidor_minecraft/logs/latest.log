@@ -187,3 +187,35 @@
 [27Apr2025 01:16:46.479] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
 [27Apr2025 01:16:46.491] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47a0267d[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:32853) lost connection: Connection closed - mismatched mod channel list
 [27Apr2025 01:18:09.089] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@298b6dde[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:43645) lost connection: Disconnected
+[27Apr2025 01:19:16.788] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@75dee611[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:36367) lost connection: Disconnected
+[27Apr2025 01:19:39.944] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[27Apr2025 01:19:39.945] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Apr2025 01:19:39.997] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@89d01da[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:41361) lost connection: Connection closed - mismatched mod channel list
+[27Apr2025 01:19:49.287] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2de86c7f[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:41493) lost connection: Disconnected
+[27Apr2025 01:19:52.816] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[27Apr2025 01:19:52.816] [Netty Epoll Server IO #0/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Apr2025 01:19:52.840] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b5125a7[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:46751) lost connection: Connection closed - mismatched mod channel list
+[27Apr2025 01:20:07.889] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@36d6adbc[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:38503) lost connection: Disconnected
+[27Apr2025 01:22:21.685] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[27Apr2025 01:22:21.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[27Apr2025 01:22:30.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Corrupted Vindicator
+[27Apr2025 01:22:30.446] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:22:32.078] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 01:23:07.034] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Corrupted Vindicator
+[27Apr2025 01:23:07.037] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:23:09.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 01:23:09.182] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 01:24:45.846] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.166.123.142:33201] logged in with entity id 88848 at (408.69999998807907, 194.0, 1281.3909395482399)
+[27Apr2025 01:24:45.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[27Apr2025 01:24:45.847] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[27Apr2025 01:24:45.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[27Apr2025 01:24:45.848] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[27Apr2025 01:24:45.849] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[27Apr2025 01:24:45.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[27Apr2025 01:24:45.851] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[27Apr2025 01:24:45.867] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[27Apr2025 01:24:45.880] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[27Apr2025 01:24:54.689] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Wraith
+[27Apr2025 01:24:54.694] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:28:01.636] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo lost connection: Disconnected
+[27Apr2025 01:28:01.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo left the game
