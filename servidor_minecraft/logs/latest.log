@@ -141,3 +141,4 @@
 [27Apr2025 00:34:24.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [27Apr2025 00:34:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set the time to 1000]
 [27Apr2025 00:35:56.231] [Worker-Main-143/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/58212, l='ServerLevel[world]', x=757.50, y=22.00, z=2261.50] as it would cause deadlock
+[27Apr2025 00:39:21.290] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Chest Slayer]
