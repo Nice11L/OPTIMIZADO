@@ -14037,3 +14037,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 22:15:35.042] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
 [27Apr2025 22:15:35.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
 [27Apr2025 22:15:35.111] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[27Apr2025 22:16:08.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:16:09.014] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:21:09.016] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:21:09.046] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
