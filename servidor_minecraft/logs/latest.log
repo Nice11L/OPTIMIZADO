@@ -1221,3 +1221,6 @@
 [27Apr2025 22:15:35.062] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
 [27Apr2025 22:15:35.111] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
 [27Apr2025 22:34:35.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[27Apr2025 22:36:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[27Apr2025 22:37:19.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[27Apr2025 22:37:19.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape

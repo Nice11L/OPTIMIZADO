@@ -4760,6 +4760,12 @@
     },
     "done": true
   },
+  "twilightforest:recipes/decorations/wood/spruce_banister": {
+    "criteria": {
+      "has_item": "2025-04-27 22:38:13 +0000"
+    },
+    "done": true
+  },
   "mcwwindows:recipes/parapets": {
     "criteria": {
       "has_wood": "2025-04-27 22:16:12 +0000"

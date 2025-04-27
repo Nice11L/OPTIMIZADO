@@ -14046,3 +14046,10 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [27Apr2025 22:31:08.965] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [27Apr2025 22:31:08.990] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
 [27Apr2025 22:34:35.383] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Creative Mode]
+[27Apr2025 22:36:08.959] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:36:08.978] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 22:36:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
+[27Apr2025 22:37:19.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
+[27Apr2025 22:37:19.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[27Apr2025 22:41:08.975] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 22:41:08.998] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
