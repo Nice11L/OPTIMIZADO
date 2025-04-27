@@ -15997,3 +15997,25 @@ Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING
 [26Apr2025 23:54:32.631] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity Vex['Restless Spirit'/32488, l='ServerLevel[world]', x=-9.50, y=-20.00, z=293.50] died: Restless Spirit was killed
 [26Apr2025 23:56:54.727] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [26Apr2025 23:56:54.752] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Apr2025 23:58:27.738] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Miphril]
+[26Apr2025 23:59:53.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 died
+[26Apr2025 23:59:53.586] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:419, y:199, z:1248, dim:minecraft:overworld]
+[26Apr2025 23:59:53.591] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[26Apr2025 23:59:54.795] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Apr2025 00:01:54.721] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 00:01:54.746] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[27Apr2025 00:03:12.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[27Apr2025 00:03:12.791] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:404, y:197, z:1273, dim:minecraft:overworld]
+[27Apr2025 00:03:12.798] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:03:14.028] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Apr2025 00:03:21.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[27Apr2025 00:03:21.191] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:03:22.514] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Apr2025 00:04:00.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Pregnant
+[27Apr2025 00:04:00.338] [Server thread/DEBUG] [tombstone/]: A new grave of the player amigobuho360 was created at position [x:387, y:195, z:1278, dim:minecraft:overworld]
+[27Apr2025 00:04:00.345] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:04:01.615] [Server thread/DEBUG] [twilightforest/]: Player amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4) respawned and received items held in storage
+[27Apr2025 00:05:04.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[27Apr2025 00:05:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[27Apr2025 00:06:54.716] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[27Apr2025 00:06:54.742] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
