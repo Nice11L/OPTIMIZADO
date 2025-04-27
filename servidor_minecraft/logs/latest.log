@@ -174,3 +174,16 @@
 [27Apr2025 01:07:49.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
 [27Apr2025 01:07:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
 [27Apr2025 01:07:49.711] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
+[27Apr2025 01:08:58.377] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Iron, but dark]
+[27Apr2025 01:09:24.104] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ZingyMonk719952 lost connection: Timed out
+[27Apr2025 01:09:24.104] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 left the game
+[27Apr2025 01:09:24.141] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[27Apr2025 01:14:27.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Wraith
+[27Apr2025 01:14:27.093] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:16:40.063] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[27Apr2025 01:16:40.063] [Netty Epoll Server IO #2/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Apr2025 01:16:40.093] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@8015cdd[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:33845) lost connection: Connection closed - mismatched mod channel list
+[27Apr2025 01:16:46.479] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.NetworkRegistry/NETREGISTRY]: Channels [lootr:main_network_channel] rejected their client side version number
+[27Apr2025 01:16:46.479] [Netty Epoll Server IO #4/ERROR] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Terminating connection with client, mismatched mod list
+[27Apr2025 01:16:46.491] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@47a0267d[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:32853) lost connection: Connection closed - mismatched mod channel list
+[27Apr2025 01:18:09.089] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@298b6dde[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:43645) lost connection: Disconnected

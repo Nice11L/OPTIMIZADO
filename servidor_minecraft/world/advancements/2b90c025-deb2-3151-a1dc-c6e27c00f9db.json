@@ -4464,6 +4464,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/polished_deepslate_wall": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_bricks": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/deposit_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-26 23:45:58 +0000"
@@ -4485,6 +4497,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_deepslate_bricks_stonecutting": {
     "criteria": {
       "has_deepslate_bricks": "2025-04-27 01:03:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
@@ -4740,6 +4758,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-04-27 01:07:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/cherry_pressure_plate": {
     "criteria": {
       "has_planks": "2025-04-27 00:30:53 +0000"
@@ -4806,6 +4836,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_brick_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "create:recipes/building_blocks/small_crimsite_brick_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-27 00:43:36 +0000"
@@ -4833,6 +4875,12 @@
   "create:recipes/building_blocks/small_crimsite_bricks_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-27 00:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
@@ -4926,6 +4974,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_tile_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "beautify:lamp_jar": {
     "criteria": {
       "requirement": "2025-04-26 23:25:11 +0000"
@@ -4968,6 +5022,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_deepslate_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cherry_stairs": {
     "criteria": {
       "has_planks": "2025-04-27 00:30:53 +0000"
@@ -4989,6 +5049,12 @@
   "create:recipes/building_blocks/cut_crimsite_stairs_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-27 00:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/emerald_block": {
+    "criteria": {
+      "has_emerald": "2025-04-27 01:14:15 +0000"
     },
     "done": true
   },
@@ -5040,6 +5106,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_bricks_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/compacting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-26 23:45:58 +0000"
@@ -5073,6 +5145,12 @@
   "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
     "criteria": {
       "has_smooth_stone": "2025-04-27 00:00:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/deepslate_tile_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
@@ -5124,6 +5202,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/deepslate_brick_slab_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
+    },
+    "done": true
+  },
   "blue_skies:recipes/building_blocks/coarse_turquoise_dirt": {
     "criteria": {
       "has_item": "2025-04-27 00:44:16 +0000"
@@ -5139,6 +5223,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_deepslate_tiles_stonecutting": {
     "criteria": {
       "has_deepslate_tiles": "2025-04-27 01:02:29 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_deepslate_wall_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
@@ -5172,6 +5262,12 @@
     },
     "done": true
   },
+  "graveyard:graveyard/dark_iron": {
+    "criteria": {
+      "dark_iron": "2025-04-27 01:08:58 +0000"
+    },
+    "done": true
+  },
   "undead_revamp2:thineded": {
     "criteria": {
       "thineded_0": "2025-04-27 00:30:22 +0000"
@@ -5187,6 +5283,12 @@
   "create:recipes/building_blocks/cherry_window": {
     "criteria": {
       "has_ingredient": "2025-04-27 00:30:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_tiles_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
@@ -5307,6 +5409,12 @@
   "create:recipes/building_blocks/small_crimsite_brick_slab_from_stone_types_crimsite_stonecutting": {
     "criteria": {
       "has_stone_types_crimsite": "2025-04-27 00:43:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/deepslate_brick_stairs_from_polished_deepslate_stonecutting": {
+    "criteria": {
+      "has_polished_deepslate": "2025-04-27 01:11:30 +0000"
     },
     "done": true
   },
