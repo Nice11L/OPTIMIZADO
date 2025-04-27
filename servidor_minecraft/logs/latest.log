@@ -6,3 +6,138 @@
 [27Apr2025 00:04:00.345] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
 [27Apr2025 00:05:04.485] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [27Apr2025 00:05:04.486] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[27Apr2025 00:17:56.583] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Nightmare Stalker
+[27Apr2025 00:17:56.599] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 00:17:58.582] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 00:18:27.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has reached the goal [Fighting Nightmares]
+[27Apr2025 00:18:57.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Dark Metallurgy]
+[27Apr2025 00:19:29.212] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/entity/ai/gossip/GossipType
+[27Apr2025 00:19:29.232] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/legacy/blue_skies/entities/ai/NightwatcherRobGoal$Task
+[27Apr2025 00:20:27.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was shot by Skeleton
+[27Apr2025 00:20:27.645] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 00:20:40.083] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@420cd6e0[id=<null>,name=amigobuho360,properties={},legacy=false] (/127.166.123.142:57645) lost connection: Disconnected
+[27Apr2025 00:20:50.146] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.166.123.142:55421] logged in with entity id 42613 at (415.02173772391905, 196.0, 1237.0067216076316)
+[27Apr2025 00:20:50.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[27Apr2025 00:20:50.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[27Apr2025 00:20:50.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[27Apr2025 00:20:50.148] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[27Apr2025 00:20:50.150] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[27Apr2025 00:20:50.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[27Apr2025 00:20:50.151] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[27Apr2025 00:20:50.164] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[27Apr2025 00:20:50.176] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
+[27Apr2025 00:21:33.984] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 00:23:20.526] [Worker-Main-156/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/world/gen/FallenLogGenerator$Decor
+[27Apr2025 00:23:42.703] [Worker-Main-156/INFO] [ModernFix/]: Instantiating Mojang DFU
+[27Apr2025 00:23:53.091] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=232, y=-2, z=2045}
+[27Apr2025 00:23:59.509] [Worker-Main-141/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/46118, l='ServerLevel[world]', x=253.50, y=-28.00, z=2057.50] as it would cause deadlock
+[27Apr2025 00:24:05.626] [Worker-Main-143/INFO] [com.teampotato.redirector.Redirector/]: Redirecting xiroc/dungeoncrawl/dungeon/Tile$Flag
+[27Apr2025 00:24:26.011] [Worker-Main-154/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/46482, l='ServerLevel[world]', x=330.50, y=22.00, z=2041.50] as it would cause deadlock
+[27Apr2025 00:24:30.941] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/ilexiconn/llibrary/server/animation/AnimationHandler
+[27Apr2025 00:25:09.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=281, y=63, z=2309} but found not block entity block Block{minecraft:air} at location
+[27Apr2025 00:25:09.814] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=281, y=63, z=2309}
+[27Apr2025 00:25:34.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has completed the challenge [My Bald Satanic Goth Girl Friend]
+[27Apr2025 00:26:33.786] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by Sucker
+[27Apr2025 00:26:33.793] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:27:24.942] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Wolf
+[27Apr2025 00:27:24.953] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:27:58.663] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting com/bobmowzie/mowziesmobs/server/entity/sculptor/EntitySculptor$AttackAbility$WhichHand
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.557] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.558] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.758] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.759] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:40.760] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.279] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.280] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.281] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.520] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.521] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.521] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.522] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.522] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.522] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.522] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:28:43.523] [Server thread/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[27Apr2025 00:29:41.913] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Mondongo moved wrongly!
+[27Apr2025 00:29:42.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by The Royal
+[27Apr2025 00:29:42.846] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 00:30:22.374] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has completed the challenge [Thine end is here.]
+[27Apr2025 00:30:23.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has completed the challenge [One eyed big skelly]
+[27Apr2025 00:30:30.290] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=239, y=-39, z=2561}
+[27Apr2025 00:31:18.781] [Worker-Main-141/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=686, y=-5, z=2471}
+[27Apr2025 00:31:18.781] [Worker-Main-141/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=686, y=-5, z=2472}
+[27Apr2025 00:31:18.782] [Worker-Main-141/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=686, y=-4, z=2472}
+[27Apr2025 00:31:18.782] [Worker-Main-141/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=686, y=-5, z=2473}
+[27Apr2025 00:34:07.551] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraft/world/level/gameevent/GameEventListener$DeliveryMode
+[27Apr2025 00:34:10.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was squashed by a falling anvil
+[27Apr2025 00:34:10.997] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:34:22.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was squashed by a falling anvil
+[27Apr2025 00:34:22.847] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:34:24.183] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 00:34:53.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set the time to 1000]
+[27Apr2025 00:35:56.231] [Worker-Main-143/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity CaveSpider['Cave Spider'/58212, l='ServerLevel[world]', x=757.50, y=22.00, z=2261.50] as it would cause deadlock
