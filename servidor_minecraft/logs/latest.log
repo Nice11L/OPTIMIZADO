@@ -1241,3 +1241,22 @@
 [27Apr2025 23:10:48.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
 [27Apr2025 23:11:12.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
 [27Apr2025 23:11:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[27Apr2025 23:17:19.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.131.205.221:49611] logged in with entity id 14868 at (229.43370919897674, 63.0, 1168.8729018459385)
+[27Apr2025 23:17:19.728] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[27Apr2025 23:17:19.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[27Apr2025 23:17:19.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[27Apr2025 23:17:19.730] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[27Apr2025 23:17:19.732] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[27Apr2025 23:17:19.735] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[27Apr2025 23:17:19.736] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[27Apr2025 23:17:19.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[27Apr2025 23:17:19.765] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[27Apr2025 23:17:19.970] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 23:17:19.971] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 23:17:20.028] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 23:17:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws has reached the goal [Strong or Careful]
+[27Apr2025 23:17:41.728] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws was slain by The Moonflower
+[27Apr2025 23:17:41.763] [Server thread/INFO] [tombstone/]: The player ACUA-Ws has successfully been saved
+[27Apr2025 23:19:10.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
+[27Apr2025 23:20:21.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[27Apr2025 23:20:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
