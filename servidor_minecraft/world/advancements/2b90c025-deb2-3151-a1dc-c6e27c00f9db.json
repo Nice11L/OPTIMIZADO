@@ -1676,7 +1676,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-04-25 00:29:58 +0000",
-      "opened_chest": "2025-04-23 03:13:21 +0000"
+      "opened_chest": "2025-04-23 03:13:21 +0000",
+      "opened_cart": "2025-04-27 00:48:12 +0000"
     },
     "done": false
   },
@@ -4504,6 +4505,12 @@
     },
     "done": true
   },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-04-27 00:48:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-27 00:26:04 +0000"
@@ -4867,6 +4874,12 @@
   "minecraft:recipes/misc/pink_dye_from_pink_tulip": {
     "criteria": {
       "has_pink_tulip": "2025-04-27 00:28:06 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/auto_smoking_upgrade": {
+    "criteria": {
+      "has_smoking_upgrade": "2025-04-27 00:52:39 +0000"
     },
     "done": true
   },
