@@ -1273,3 +1273,24 @@
 [27Apr2025 23:37:52.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
 [27Apr2025 23:40:52.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
 [27Apr2025 23:40:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[27Apr2025 23:48:36.976] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.131.205.221:37645] logged in with entity id 20668 at (224.496060824713, 64.0, 1119.300000011921)
+[27Apr2025 23:48:36.977] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[27Apr2025 23:48:36.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[27Apr2025 23:48:36.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[27Apr2025 23:48:36.978] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[27Apr2025 23:48:36.980] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[27Apr2025 23:48:36.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[27Apr2025 23:48:36.982] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[27Apr2025 23:48:36.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[27Apr2025 23:48:37.008] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[27Apr2025 23:48:37.223] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 23:53:15.186] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: amigobuho360[/127.166.123.142:56465] logged in with entity id 22386 at (404.18623979539814, 195.0, 1285.2830783929965)
+[27Apr2025 23:53:15.187] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to amigobuho360
+[27Apr2025 23:53:15.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to amigobuho360
+[27Apr2025 23:53:15.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to amigobuho360
+[27Apr2025 23:53:15.188] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to amigobuho360
+[27Apr2025 23:53:15.190] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to amigobuho360
+[27Apr2025 23:53:15.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to amigobuho360
+[27Apr2025 23:53:15.192] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to amigobuho360
+[27Apr2025 23:53:15.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 joined the game
+[27Apr2025 23:53:15.237] [Server thread/INFO] [Jade/]: Syncing config to amigobuho360 (b68e832d-3da2-35d1-8fd6-80925fbd78f4)
