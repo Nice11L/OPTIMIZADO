@@ -149,3 +149,28 @@
 [27Apr2025 00:56:52.161] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5258bcd0[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:46403) lost connection: Disconnected
 [27Apr2025 00:57:07.440] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 was slain by The Moonflower
 [27Apr2025 00:57:07.467] [Server thread/INFO] [tombstone/]: The player amigobuho360 has successfully been saved
+[27Apr2025 00:58:05.993] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@7ba3211d[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:44553) lost connection: Disconnected
+[27Apr2025 00:59:08.716] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=182, y=10, z=2472}
+[27Apr2025 00:59:08.716] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=182, y=10, z=2473}
+[27Apr2025 01:01:07.339] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@2ef459f9[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:34817) lost connection: Disconnected
+[27Apr2025 01:01:45.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo fell from a high place
+[27Apr2025 01:01:45.409] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:02:01.355] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5ac0c188[id=<null>,name=ZingyMonk719952,properties={},legacy=false] (/127.93.12.103:45643) lost connection: Disconnected
+[27Apr2025 01:02:29.740] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Into Darkness]
+[27Apr2025 01:04:28.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Acolyte
+[27Apr2025 01:04:28.852] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:05:16.675] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=413, y=32, z=2603}
+[27Apr2025 01:05:50.839] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Source of Evil]
+[27Apr2025 01:07:10.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo has made the advancement [Taking from the Dead]
+[27Apr2025 01:07:17.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Mondongo was slain by Wraith
+[27Apr2025 01:07:17.744] [Server thread/INFO] [tombstone/]: The player Mondongo has successfully been saved
+[27Apr2025 01:07:49.651] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ZingyMonk719952[/127.93.12.103:46345] logged in with entity id 76527 at (205.53859802940357, 67.0, 1253.6933964138607)
+[27Apr2025 01:07:49.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ZingyMonk719952
+[27Apr2025 01:07:49.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ZingyMonk719952
+[27Apr2025 01:07:49.653] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ZingyMonk719952
+[27Apr2025 01:07:49.654] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ZingyMonk719952
+[27Apr2025 01:07:49.655] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ZingyMonk719952
+[27Apr2025 01:07:49.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ZingyMonk719952
+[27Apr2025 01:07:49.657] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ZingyMonk719952
+[27Apr2025 01:07:49.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ZingyMonk719952 joined the game
+[27Apr2025 01:07:49.711] [Server thread/INFO] [Jade/]: Syncing config to ZingyMonk719952 (b7e0402f-b8bd-3ceb-8247-7180e90a4d00)
