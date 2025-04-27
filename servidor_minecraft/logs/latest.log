@@ -1224,3 +1224,5 @@
 [27Apr2025 22:36:22.479] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [amigobuho360: Set own game mode to Survival Mode]
 [27Apr2025 22:37:19.312] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/properties/ChoppedLogShape
 [27Apr2025 22:37:19.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
+[27Apr2025 22:48:23.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
+[27Apr2025 22:48:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
