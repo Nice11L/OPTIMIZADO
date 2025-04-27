@@ -1260,3 +1260,16 @@
 [27Apr2025 23:19:10.721] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting net/minecraftforge/event/entity/ProjectileImpactEvent$ImpactResult
 [27Apr2025 23:20:21.372] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
 [27Apr2025 23:20:21.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[27Apr2025 23:37:52.580] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.131.205.221:48741] logged in with entity id 19033 at (224.496060824713, 64.0, 1119.300000011921)
+[27Apr2025 23:37:52.581] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[27Apr2025 23:37:52.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[27Apr2025 23:37:52.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[27Apr2025 23:37:52.582] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[27Apr2025 23:37:52.584] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[27Apr2025 23:37:52.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[27Apr2025 23:37:52.586] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[27Apr2025 23:37:52.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[27Apr2025 23:37:52.614] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[27Apr2025 23:37:52.869] [Server thread/WARN] [net.minecraft.server.level.ServerLevel/]: Tried to add entity thalassophobia:bathotrap_spawn but it was marked as removed already
+[27Apr2025 23:40:52.521] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[27Apr2025 23:40:52.521] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
