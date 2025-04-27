@@ -1226,3 +1226,5 @@
 [27Apr2025 22:37:19.315] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting ht/treechop/common/util/FaceShape
 [27Apr2025 22:48:23.973] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: amigobuho360 lost connection: Disconnected
 [27Apr2025 22:48:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
+[27Apr2025 23:03:20.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[27Apr2025 23:03:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
