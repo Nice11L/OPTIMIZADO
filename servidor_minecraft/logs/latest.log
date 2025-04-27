@@ -1228,3 +1228,16 @@
 [27Apr2025 22:48:23.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: amigobuho360 left the game
 [27Apr2025 23:03:20.472] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
 [27Apr2025 23:03:20.472] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
+[27Apr2025 23:08:45.727] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ACUA-Ws[/127.131.205.221:43855] logged in with entity id 13370 at (208.07499998807907, 63.0, 1249.2582412757647)
+[27Apr2025 23:08:45.728] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending ToolHandleTypeManager to ACUA-Ws
+[27Apr2025 23:08:45.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending SnowcapOvenFreezingManager to ACUA-Ws
+[27Apr2025 23:08:45.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending HorizoniteForgeFuelManager to ACUA-Ws
+[27Apr2025 23:08:45.729] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending AlchemyRecipeManager to ACUA-Ws
+[27Apr2025 23:08:45.731] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalEntryManager to ACUA-Ws
+[27Apr2025 23:08:45.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalSectionManager to ACUA-Ws
+[27Apr2025 23:08:45.734] [Server thread/INFO] [ModdingLegacy/blue_skies/]: Sending JournalRequirementManager to ACUA-Ws
+[27Apr2025 23:08:45.749] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws joined the game
+[27Apr2025 23:08:45.765] [Server thread/INFO] [Jade/]: Syncing config to ACUA-Ws (382df0e4-a71b-3556-89e9-549d4875730c)
+[27Apr2025 23:10:48.070] [Server thread/INFO] [com.teampotato.redirector.Redirector/]: Redirecting org/violetmoon/quark/content/mobs/entity/Stoneling$StonelingVariant
+[27Apr2025 23:11:12.821] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ACUA-Ws lost connection: Disconnected
+[27Apr2025 23:11:12.822] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ACUA-Ws left the game
